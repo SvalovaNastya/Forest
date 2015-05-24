@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://localhost">
+<Filename>input.txt</Filename>
+<players>
+	<ConfigPoints>
+		<StartPointX>1</StartPointX>
+		<StartPointY>1</StartPointY>
+		<TargetX>1</TargetX>
+		<TargetY>3</TargetY>
+	</ConfigPoints>
+	<ConfigPoints>
+		<StartPointX>4</StartPointX>
+		<StartPointY>6</StartPointY>
+		<TargetX>1</TargetX>
+		<TargetY>3</TargetY>
+	</ConfigPoints>
+</players>
+</Config>
