@@ -123,10 +123,11 @@ namespace Server
                         serverWorker.IsOver = true;
                     }
                 }
-                serverWorker.CheckForHp(players);
+                
                 Console.WriteLine(serverWorker.IsOver);
                 var lastMoveInfo = CreateLastMoveInfo();
                 JSon.Write(lastMoveInfo, visStream);
+                serverWorker.CheckForHp(players);
                 if (serverWorker.IsOver)
                 {
                     foreach (var player in players)
