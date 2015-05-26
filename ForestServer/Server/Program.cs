@@ -11,14 +11,14 @@ namespace Server
     {
         static void Main()
         {
-//            string source = "input.txt";
+            string source = "input.txt";
             const string patSourse = "config.xml";
             var serializer = new XmlSerializer(typeof(Config));
             var config = (Config)serializer.Deserialize(File.OpenRead(patSourse));
-            var map = FileReader.GetField(config.Filename);
+            var map = FileReader.GetField(source);//config.Filename);
             var paticipants = config.Points.Select(x => Tuple.Create(new Point(x.StartPointX, x.StartPointY), new Point(x.TargetX, x.TargetY), x.Hp)).ToList();
 //            var paticipants = FileReader.GetAllPaticipants(patSourse);
-            var forest = new Forest(map, 0);
+            var forest = new Forest(map, config.FogOfWar);
             var serverWorker = new ServerWorker(forest, paticipants);
             var server = new ServersConnection(serverWorker, IPAddress.Parse("127.0.0.1"), 20000);
             server.Start();

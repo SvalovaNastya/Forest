@@ -1,13 +1,15 @@
-﻿using System.Xml.Serialization;
+﻿using System;
+using System.Xml.Serialization;
 
 namespace Server
 {
     [XmlRoot(Namespace = "http://localhost", IsNullable = false)]
     public class Config
     {
-        public string Filename;
+//        public string Filename;
         [XmlArrayAttribute("players")]
         public ConfigPoints[] Points;
+        public int FogOfWar;
     }
 
     public class ConfigPoints
@@ -18,4 +20,5 @@ namespace Server
         public int TargetY;
         public int Hp;
     }
+
 }
