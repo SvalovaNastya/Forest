@@ -64,10 +64,10 @@ namespace Server
         {
             var dicts = new Dictionary<int, Func<DeltaPoint>>
             {
-                {0, DeltaPoint.GoUp},
-                {1, DeltaPoint.GoRight},
-                {2, DeltaPoint.GoDown},
-                {3, DeltaPoint.GoLeft}
+                {3, DeltaPoint.GoUp},
+                {2, DeltaPoint.GoRight},
+                {1, DeltaPoint.GoDown},
+                {0, DeltaPoint.GoLeft}
             };
             var canMove = Forest.Move(keeper, dicts[direction]());
             var dest = keeper.Destination;

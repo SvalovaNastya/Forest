@@ -8,11 +8,11 @@
 		<TargetX>1</TargetX>
 		<TargetY>3</TargetY>
 	</ConfigPoints>
-	<ConfigPoints>
-		<StartPointX>4</StartPointX>
-		<StartPointY>6</StartPointY>
-		<TargetX>1</TargetX>
-		<TargetY>3</TargetY>
-	</ConfigPoints>
+<!--	<ConfigPoints>-->
+<!--		<StartPointX>4</StartPointX>-->
+<!--		<StartPointY>6</StartPointY>-->
+<!--		<TargetX>1</TargetX>-->
+<!--		<TargetY>3</TargetY>-->
+<!--	</ConfigPoints>-->
 </players>
 </Config>

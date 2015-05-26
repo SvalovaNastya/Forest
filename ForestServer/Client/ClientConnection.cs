@@ -66,13 +66,14 @@ namespace Client
             var stream = server.GetStream();
             var directoins = new Dictionary<DeltaPoint, int>
             {
-                { DeltaPoint.GoUp(), 0 }, 
-                { DeltaPoint.GoRight(), 1 }, 
-                { DeltaPoint.GoDown(), 2 }, 
-                { DeltaPoint.GoLeft(), 3 }
+                { DeltaPoint.GoUp(), 3 }, 
+                { DeltaPoint.GoRight(), 2 }, 
+                { DeltaPoint.GoDown(), 1 }, 
+                { DeltaPoint.GoLeft(), 0 }
             };
             var move = new Move {Direction = directoins[point]};
             JSon.Write(move, stream);
+            Console.WriteLine(directoins[point]);
             var resultInfo = JSon.Read<MoveResultInfo>(stream);
             if (resultInfo.Result == 2)
             {
@@ -80,6 +81,7 @@ namespace Client
             }
             if (resultInfo.Result == 0)
                 clientWorker.ChangePosition(point);
+            Console.WriteLine(resultInfo.Result == 0);
             return resultInfo.Result == 0;
         }
 

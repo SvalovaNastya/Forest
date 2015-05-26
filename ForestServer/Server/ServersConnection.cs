@@ -160,6 +160,7 @@ namespace Server
             {
                 var move = JSon.Read<Move>(player.Client.GetStream());
                 var res = 1;
+//                Console.WriteLine(move.Direction);
                 if (serverWorker.Move(move.Direction, player.Keeper))
                     res = 0;
                 if (serverWorker.IsOver)
