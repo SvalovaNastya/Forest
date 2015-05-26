@@ -21,7 +21,7 @@ namespace Tests
             keeper = new ForestKeeper("a", new Point(2, 2), new Point(4, 4), 2, 'f');
             var forest = new Forest(field, 2);
             forest.Keepers.Add(keeper);
-            worker = new ServerWorker(forest, new List<Tuple<Point, Point>>());
+            worker = new ServerWorker(forest, new List<Tuple<Point, Point, int>>());
         }
 
         [Test]

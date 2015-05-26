@@ -16,5 +16,6 @@ namespace Server
         public int StartPointY;
         public int TargetX;
         public int TargetY;
+        public int Hp;
     }
 }

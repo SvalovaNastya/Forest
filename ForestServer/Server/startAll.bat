@@ -1,5 +1,5 @@
 @echo off
 
-start cmd /c "bin\Debug\Server.exe"
-start cmd /c "..\Visualiser\bin\Debug\Visualiser.exe"
-start cmd /c "..\Client\bin\Debug\Client.exe"
+start cmd /k "bin\Debug\Server.exe"
+start cmd /k "..\Visualiser\bin\Debug\Visualiser.exe"
+start cmd /k "..\Client\bin\Debug\Client.exe"

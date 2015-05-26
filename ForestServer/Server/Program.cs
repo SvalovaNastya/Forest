@@ -16,7 +16,7 @@ namespace Server
             var serializer = new XmlSerializer(typeof(Config));
             var config = (Config)serializer.Deserialize(File.OpenRead(patSourse));
             var map = FileReader.GetField(config.Filename);
-            var paticipants = config.Points.Select(x => Tuple.Create(new Point(x.StartPointX, x.StartPointY), new Point(x.TargetX, x.TargetY))).ToList();
+            var paticipants = config.Points.Select(x => Tuple.Create(new Point(x.StartPointX, x.StartPointY), new Point(x.TargetX, x.TargetY), x.Hp)).ToList();
 //            var paticipants = FileReader.GetAllPaticipants(patSourse);
             var forest = new Forest(map, 0);
             var serverWorker = new ServerWorker(forest, paticipants);

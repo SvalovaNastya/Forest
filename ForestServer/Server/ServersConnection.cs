@@ -124,6 +124,7 @@ namespace Server
                     }
                 }
                 serverWorker.CheckForHp(players);
+                Console.WriteLine(serverWorker.IsOver);
                 var lastMoveInfo = CreateLastMoveInfo();
                 JSon.Write(lastMoveInfo, visStream);
                 if (serverWorker.IsOver)
@@ -136,6 +137,7 @@ namespace Server
                     break;
                 }
             }
+            Thread.Sleep(2000);
         }
 
         private LastMoveInfo CreateLastMoveInfo()

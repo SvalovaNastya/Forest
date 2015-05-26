@@ -10,7 +10,7 @@ namespace Server
     public class ServerWorker
     {
         public readonly Forest Forest;
-        private readonly List<Tuple<Point, Point>> patFirstPos;
+        private readonly List<Tuple<Point, Point, int>> patFirstPos;
         public readonly int MaxPaticipants;
         private int nextId;
         private readonly List<ForestKeeper> keepers;
@@ -24,7 +24,7 @@ namespace Server
                 {typeof (Life), 4}
             };
 
-        public ServerWorker(Forest forest, List<Tuple<Point, Point>> patFirstPos)
+        public ServerWorker(Forest forest, List<Tuple<Point, Point, int>> patFirstPos)
         {
             Forest = forest;
             this.patFirstPos = patFirstPos;
@@ -52,7 +52,7 @@ namespace Server
         {
             var startPosition = patFirstPos[0].Item1;
             var destination = patFirstPos[0].Item2;
-            var keeper = Forest.MakeNewKeeper(name, nextId, startPosition, destination, 2);
+            var keeper = Forest.MakeNewKeeper(name, nextId, startPosition, destination, patFirstPos[0].Item3);
             keepers.Add(keeper);
             var player = new Player(nextId, name, startPosition.ConvertToNetPoint(), destination.ConvertToNetPoint(), 2);
             patFirstPos.RemoveAt(0);
@@ -75,7 +75,6 @@ namespace Server
             {
                 IsOver = true;
                 winnerId = keeper.Id;
-                Console.WriteLine(winnerId);
             }
             return canMove;
         }

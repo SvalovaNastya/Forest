@@ -53,6 +53,8 @@ namespace Visualiser
                     break;
                 Thread.Sleep(500);
             }
+            while(true)
+            {}
         }
 
         private void ApplyLastMoveInfo(LastMoveInfo lastMoveInfo)

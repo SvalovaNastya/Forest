@@ -18,7 +18,7 @@ namespace Client
 
         public void Move(Func<ForestKeeper, DeltaPoint, bool> tryMove)
         {
-//            tryMove(keeper, DeltaPoint.GoRight());
+//            tryMove(keeper, DeltaPoint.GoDown());
             ai.Go(tryMove);
         }
 
