@@ -178,8 +178,9 @@ namespace Server
             }
             catch (Exception)
             {
-                players.Remove(player);
-                player.Client.Close();
+	            player.Keeper.Hp = -1;
+//                players.Remove(player);
+//                player.Client.Close();
             }
         }
 

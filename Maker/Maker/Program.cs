@@ -16,7 +16,7 @@ namespace Maker
             var mapMaker = new MapMakerObj(MapSize, MapSize);
             var map = mapMaker.GetMapSpeciallyForNastya();
             File.WriteAllLines("../Server/input.txt", map.Map);
-            File.WriteAllLines("../Server/config.xml", map.PlayersXml);
+            File.WriteAllText("../Server/config.xml", map.PlayersXml, Encoding.Unicode);
         }
     }
 }

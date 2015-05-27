@@ -23,9 +23,9 @@ namespace MapMaker
 	public class MapMakerAnswer
 	{
 		public string[] Map { get; private set; }
-		public string[] PlayersXml { get; private set; }
+		public string PlayersXml { get; private set; }
 
-		public MapMakerAnswer(string[] map, string[] playersXml)
+		public MapMakerAnswer(string[] map, string playersXml)
 		{
 			Map = map;
 			PlayersXml = playersXml;
@@ -136,7 +136,7 @@ namespace MapMaker
 			var stringWritter = new StringWriter();
 			serializer.Serialize(stringWritter, config);
 
-			return new MapMakerAnswer(map, stringWritter.GetStringBuilder().ToString().Split('\n'));
+			return new MapMakerAnswer(map, stringWritter.GetStringBuilder().ToString());
 		}
 
 		private static Config GetConfig(int fogOfWar, IReadOnlyList<int[]> players)
