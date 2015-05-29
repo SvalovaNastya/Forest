@@ -1,0 +1,223 @@
+[Start of logging]
+[End of logging]
+
+[Start of logging]
+20.05.2015 11:54:12.905 INFO     4 Start!!!  
+20.05.2015 11:54:12.921 INFO     4 Connected to server  
+20.05.2015 11:54:12.921 INFO     3 Connected to server  
+20.05.2015 11:54:13.213 INFO     3 rrr position 1 1  
+20.05.2015 11:54:13.213 INFO     3 rrr tryed to 1  
+20.05.2015 11:54:13.213 INFO     3 rrr can move False  
+20.05.2015 11:54:13.213 INFO     3 rrr position 1 1  
+20.05.2015 11:54:13.213 INFO     3 rrr tryed to 0  
+[Start of logging]
+[End of logging]
+
+[Start of logging]
+20.05.2015 11:54:56.294 INFO     4 Start!!!  
+20.05.2015 11:54:56.294 INFO     3 Connected to server  
+20.05.2015 11:54:56.294 INFO     4 Connected to server  
+20.05.2015 11:54:56.544 INFO     3 rrr position 1 1  
+20.05.2015 11:54:56.560 INFO     3 rrr tryed to 1  
+20.05.2015 11:54:56.560 INFO     3 rrr can move False  
+20.05.2015 11:54:56.560 INFO     3 rrr position 1 1  
+20.05.2015 11:54:56.560 INFO     3 rrr tryed to 0  
+[Start of logging]
+[End of logging]
+
+[Start of logging]
+20.05.2015 11:56:05.444 INFO     4 Start!!!  
+20.05.2015 11:56:05.444 INFO     4 Connected to server  
+20.05.2015 11:56:05.428 INFO     3 Start!!!  
+20.05.2015 11:56:05.460 INFO     3 Connected to server  
+20.05.2015 11:56:05.691 INFO     4 t position 1 1  
+20.05.2015 11:56:05.691 INFO     4 t tryed to 1  
+20.05.2015 11:56:05.707 INFO     4 t can move False  
+20.05.2015 11:56:05.707 INFO     4 t position 1 1  
+20.05.2015 11:56:05.707 INFO     4 t tryed to 0  
+[Start of logging]
+[End of logging]
+
+[Start of logging]
+20.05.2015 11:56:40.909 INFO     4 Start!!!  
+20.05.2015 11:56:40.909 INFO     3 Start!!!  
+20.05.2015 11:56:40.925 INFO     3 Connected to server  
+20.05.2015 11:56:40.925 INFO     4 Connected to server  
+20.05.2015 11:56:41.191 INFO     4 t position 1 1  
+20.05.2015 11:56:41.191 INFO     3 rrr position 3 1  
+20.05.2015 11:56:41.191 INFO     4 t tryed to 1  
+20.05.2015 11:56:41.191 INFO     3 rrr tryed to 2  
+20.05.2015 11:56:41.206 INFO     4 t can move False  
+20.05.2015 11:56:41.206 INFO     3 rrr can move True  
+20.05.2015 11:56:41.206 INFO     3 rrr position 3 2  
+20.05.2015 11:56:41.206 INFO     3 rrr tryed to 2  
+20.05.2015 11:56:41.206 INFO     4 t position 1 1  
+20.05.2015 11:56:41.206 INFO     4 t tryed to 0  
+20.05.2015 11:56:41.812 INFO     4 t can move False  
+20.05.2015 11:56:41.812 INFO     3 rrr can move True  
+20.05.2015 11:56:41.812 INFO     3 rrr position 3 3  
+20.05.2015 11:56:41.812 INFO     3 rrr tryed to 1  
+[End of logging]
+
+[Start of logging]
+[End of logging]
+
+[Start of logging]
+20.05.2015 11:57:35.917 INFO     4 Start!!!  
+20.05.2015 11:57:35.917 INFO     4 Connected to server  
+20.05.2015 11:57:35.917 INFO     3 Start!!!  
+20.05.2015 11:57:35.932 INFO     3 Connected to server  
+20.05.2015 11:57:36.182 INFO     4 t position 1 1  
+20.05.2015 11:57:36.182 INFO     3 rrr position 3 1  
+20.05.2015 11:57:36.182 INFO     4 t tryed to 1  
+20.05.2015 11:57:36.182 INFO     3 rrr tryed to 2  
+20.05.2015 11:57:36.198 INFO     4 t can move False  
+20.05.2015 11:57:36.198 INFO     3 rrr can move True  
+20.05.2015 11:57:36.198 INFO     4 t position 1 1  
+20.05.2015 11:57:36.198 INFO     4 t tryed to 0  
+20.05.2015 11:57:36.198 INFO     3 rrr position 3 2  
+20.05.2015 11:57:36.198 INFO     3 rrr tryed to 2  
+20.05.2015 11:57:36.812 INFO     4 t can move False  
+20.05.2015 11:57:36.812 INFO     3 rrr can move True  
+20.05.2015 11:57:36.812 INFO     3 rrr position 3 3  
+20.05.2015 11:57:36.812 INFO     3 rrr tryed to 1  
+[End of logging]
+
+[Start of logging]
+[End of logging]
+
+[Start of logging]
+20.05.2015 11:58:25.647 INFO     4 Start!!!  
+20.05.2015 11:58:25.647 INFO     3 Start!!!  
+20.05.2015 11:58:25.663 INFO     3 Connected to server  
+20.05.2015 11:58:25.663 INFO     4 Connected to server  
+20.05.2015 11:58:25.913 INFO     3 rrr position 1 1  
+20.05.2015 11:58:25.913 INFO     4 t position 3 1  
+20.05.2015 11:58:25.913 INFO     3 rrr tryed to 1  
+20.05.2015 11:58:25.913 INFO     4 t tryed to 1  
+20.05.2015 11:58:25.929 INFO     3 rrr can move False  
+20.05.2015 11:58:25.929 INFO     4 t can move True  
+20.05.2015 11:58:25.929 INFO     4 t position 4 1  
+20.05.2015 11:58:25.929 INFO     4 t tryed to 1  
+20.05.2015 11:58:25.929 INFO     3 rrr position 1 1  
+20.05.2015 11:58:25.929 INFO     3 rrr tryed to 0  
+20.05.2015 11:58:26.559 INFO     3 rrr can move False  
+20.05.2015 11:58:26.559 INFO     4 t can move True  
+20.05.2015 11:58:26.559 INFO     4 t position 5 1  
+20.05.2015 11:58:26.559 INFO     4 t tryed to 2  
+20.05.2015 11:58:26.559 INFO     3 rrr position 1 1  
+20.05.2015 11:58:26.559 INFO     3 rrr tryed to 2  
+20.05.2015 11:58:27.193 INFO     3 rrr can move True  
+20.05.2015 11:58:27.193 INFO     3 rrr position 1 2  
+20.05.2015 11:58:27.193 INFO     3 rrr tryed to 2  
+20.05.2015 11:58:27.854 INFO     3 rrr can move True  
+20.05.2015 11:58:27.854 INFO     3 rrr position 1 3  
+20.05.2015 11:58:27.854 INFO     3 rrr tryed to 2  
+[End of logging]
+
+[Start of logging]
+[End of logging]
+
+[Start of logging]
+20.05.2015 12:00:36.818 INFO     4 Start!!!  
+20.05.2015 12:00:36.818 INFO     3 Start!!!  
+20.05.2015 12:00:36.833 INFO     4 Connected to server  
+20.05.2015 12:00:36.833 INFO     3 Connected to server  
+20.05.2015 12:00:37.083 INFO     4 t position 1 1  
+20.05.2015 12:00:37.083 INFO     3 rrr position 3 1  
+20.05.2015 12:00:37.083 INFO     4 t tryed to 2  
+20.05.2015 12:00:37.083 INFO     3 rrr tryed to 1  
+20.05.2015 12:00:37.099 INFO     4 t can move True  
+20.05.2015 12:00:37.099 INFO     3 rrr can move True  
+20.05.2015 12:00:37.099 INFO     4 t position 1 2  
+20.05.2015 12:00:37.099 INFO     4 t tryed to 2  
+20.05.2015 12:00:37.099 INFO     3 rrr position 4 1  
+20.05.2015 12:00:37.099 INFO     3 rrr tryed to 1  
+20.05.2015 12:00:37.721 INFO     4 t can move True  
+20.05.2015 12:00:37.721 INFO     3 rrr can move True  
+20.05.2015 12:00:37.721 INFO     4 t position 1 3  
+20.05.2015 12:00:37.721 INFO     4 t tryed to 1  
+20.05.2015 12:00:37.721 INFO     3 rrr position 5 1  
+20.05.2015 12:00:37.721 INFO     3 rrr tryed to 1  
+20.05.2015 12:00:38.362 INFO     4 t can move False  
+20.05.2015 12:00:38.362 INFO     3 rrr can move False  
+20.05.2015 12:00:38.362 INFO     4 t position 1 3  
+20.05.2015 12:00:38.362 INFO     4 t tryed to 2  
+20.05.2015 12:00:38.362 INFO     3 rrr position 5 1  
+20.05.2015 12:00:38.362 INFO     3 rrr tryed to 3  
+20.05.2015 12:00:39.008 INFO     4 t can move True  
+20.05.2015 12:00:39.008 INFO     3 rrr can move True  
+20.05.2015 12:00:39.008 INFO     3 rrr position 4 1  
+20.05.2015 12:00:39.008 INFO     3 rrr tryed to 3  
+20.05.2015 12:00:39.008 INFO     4 t position 1 4  
+20.05.2015 12:00:39.008 INFO     4 t tryed to 2  
+20.05.2015 12:00:39.585 INFO     4 t can move True  
+20.05.2015 12:00:39.585 INFO     3 rrr can move True  
+20.05.2015 12:00:39.585 INFO     4 t position 1 5  
+20.05.2015 12:00:39.585 INFO     4 t tryed to 1  
+20.05.2015 12:00:39.585 INFO     3 rrr position 3 1  
+20.05.2015 12:00:39.585 INFO     3 rrr tryed to 3  
+20.05.2015 12:00:40.215 INFO     4 t can move True  
+20.05.2015 12:00:40.215 INFO     3 rrr can move False  
+20.05.2015 12:00:40.215 INFO     4 t position 2 5  
+20.05.2015 12:00:40.215 INFO     4 t tryed to 1  
+20.05.2015 12:00:40.215 INFO     3 rrr position 3 1  
+20.05.2015 12:00:40.215 INFO     3 rrr tryed to 2  
+20.05.2015 12:00:40.866 INFO     4 t can move True  
+20.05.2015 12:00:40.866 INFO     3 rrr can move True  
+20.05.2015 12:00:40.866 INFO     3 rrr position 3 2  
+20.05.2015 12:00:40.866 INFO     3 rrr tryed to 2  
+20.05.2015 12:00:40.866 INFO     4 t position 3 5  
+20.05.2015 12:00:40.866 INFO     4 t tryed to 0  
+20.05.2015 12:00:41.515 INFO     4 t can move False  
+20.05.2015 12:00:41.515 INFO     3 rrr can move True  
+20.05.2015 12:00:41.515 INFO     3 rrr position 3 3  
+20.05.2015 12:00:41.515 INFO     3 rrr tryed to 1  
+20.05.2015 12:00:41.515 INFO     4 t position 3 5  
+20.05.2015 12:00:41.515 INFO     4 t tryed to 1  
+20.05.2015 12:00:42.126 INFO     4 t can move True  
+20.05.2015 12:00:42.126 INFO     3 rrr can move True  
+20.05.2015 12:00:42.126 INFO     4 t position 4 5  
+20.05.2015 12:00:42.126 INFO     4 t tryed to 0  
+20.05.2015 12:00:42.126 INFO     3 rrr position 4 3  
+20.05.2015 12:00:42.126 INFO     3 rrr tryed to 1  
+20.05.2015 12:00:42.768 INFO     4 t can move True  
+20.05.2015 12:00:42.768 INFO     3 rrr can move False  
+20.05.2015 12:00:42.768 INFO     4 t position 4 4  
+20.05.2015 12:00:42.768 INFO     4 t tryed to 1  
+20.05.2015 12:00:42.768 INFO     3 rrr position 4 3  
+20.05.2015 12:00:42.768 INFO     3 rrr tryed to 2  
+20.05.2015 12:00:43.424 INFO     4 t can move False  
+20.05.2015 12:00:43.424 INFO     3 rrr can move False  
+20.05.2015 12:00:43.424 INFO     4 t position 4 4  
+20.05.2015 12:00:43.424 INFO     4 t tryed to 0  
+20.05.2015 12:00:43.424 INFO     3 rrr position 4 3  
+20.05.2015 12:00:43.424 INFO     3 rrr tryed to 3  
+20.05.2015 12:00:44.088 INFO     4 t can move False  
+20.05.2015 12:00:44.088 INFO     4 t position 4 4  
+20.05.2015 12:00:44.088 INFO     4 t tryed to 2  
+20.05.2015 12:00:44.088 INFO     3 rrr can move True  
+20.05.2015 12:00:44.104 INFO     3 rrr position 3 3  
+20.05.2015 12:00:44.104 INFO     3 rrr tryed to 1  
+[Start of logging]
+[End of logging]
+
+[Start of logging]
+20.05.2015 12:01:50.807 INFO     3 Start!!!  
+20.05.2015 12:01:50.815 INFO     4 Start!!!  
+20.05.2015 12:01:50.823 INFO     4 Connected to server  
+20.05.2015 12:01:50.823 INFO     3 Connected to server  
+20.05.2015 12:01:51.087 INFO     4 t position 3 1  
+20.05.2015 12:01:51.087 INFO     3 rrr position 1 1  
+20.05.2015 12:01:51.091 INFO     4 t tryed to 2  
+20.05.2015 12:01:51.091 INFO     3 rrr tryed to 2  
+[End of logging]
+
+[Start of logging]
+[End of logging]
+
+[Start of logging]
+20.05.2015 12:03:44.792 INFO    11 Start!!!  
+20.05.2015 12:03:44.792 INFO     6 Start!!!  
+20.05.2015 12:03:44.807 INFO     6 Connected to server  
+20.05.2015 12:03:44.807 INFO    11 Connected to server  

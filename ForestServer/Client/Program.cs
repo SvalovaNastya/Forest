@@ -7,7 +7,7 @@ namespace Client
     {
         static void Main()
         {
-            var client = new ClientConnection(new ClientWorker(), "rrr", IPAddress.Parse("127.0.0.1"), 20000);
+            var client = new ClientConnection(new ClientWorker(), "Simple bot", IPAddress.Parse("127.0.0.1"), 20000);
             client.Begin();
 //            var task = Task.Run(() => client.Begin());
 //            var clientq = new ClientConnection(new ClientWorker(), "t", IPAddress.Parse("127.0.0.1"), 20000);

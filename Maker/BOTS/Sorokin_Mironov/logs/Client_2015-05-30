@@ -1,0 +1,1035 @@
+[Start of logging]
+30.05.2015 01:25:10.942 INFO     1 Start!!!  
+30.05.2015 01:25:10.963 INFO     1 Connected to server  
+30.05.2015 01:25:21.094 INFO     1 rrr position 2 17  
+30.05.2015 01:25:21.097 INFO     1 rrr tryed to 3  
+30.05.2015 01:25:21.102 INFO     1 rrr can move False  
+30.05.2015 01:25:21.103 INFO     1 rrr position 2 17  
+30.05.2015 01:25:21.103 INFO     1 rrr tryed to 0  
+[End of logging]
+
+[Start of logging]
+30.05.2015 01:26:10.325 INFO     1 Start!!!  
+30.05.2015 01:26:10.336 INFO     1 Connected to server  
+30.05.2015 01:26:22.837 INFO     1 rrr position 2 17  
+30.05.2015 01:26:22.840 INFO     1 rrr tryed to 3  
+30.05.2015 01:26:22.845 INFO     1 rrr can move False  
+30.05.2015 01:26:22.846 INFO     1 rrr position 2 17  
+30.05.2015 01:26:22.847 INFO     1 rrr tryed to 0  
+[End of logging]
+
+[Start of logging]
+30.05.2015 01:37:48.460 INFO     1 Start!!!  
+[Start of logging]
+30.05.2015 01:55:45.552 INFO     1 Start!!!  
+[Start of logging]
+30.05.2015 02:02:41.259 INFO     1 Start!!!  
+30.05.2015 02:02:41.259 INFO     1 Connected to server  
+30.05.2015 02:02:43.583 INFO     1 rrr position 7 16  
+30.05.2015 02:02:43.583 INFO     1 rrr tryed to 1  
+30.05.2015 02:02:43.817 INFO     1 rrr can move True  
+30.05.2015 02:02:43.817 INFO     1 rrr position 8 16  
+30.05.2015 02:02:43.817 INFO     1 rrr tryed to 1  
+30.05.2015 02:02:44.223 INFO     1 rrr can move True  
+30.05.2015 02:02:44.223 INFO     1 rrr position 9 16  
+30.05.2015 02:02:44.223 INFO     1 rrr tryed to 2  
+30.05.2015 02:02:44.940 INFO     1 rrr can move True  
+30.05.2015 02:02:44.940 INFO     1 rrr position 9 17  
+30.05.2015 02:02:44.940 INFO     1 rrr tryed to 2  
+30.05.2015 02:02:45.658 INFO     1 rrr can move True  
+30.05.2015 02:02:45.658 INFO     1 rrr position 9 18  
+30.05.2015 02:02:45.658 INFO     1 rrr tryed to 2  
+30.05.2015 02:02:46.376 INFO     1 rrr can move True  
+30.05.2015 02:02:46.376 INFO     1 rrr position 9 19  
+30.05.2015 02:02:46.376 INFO     1 rrr tryed to 2  
+[End of logging]
+
+[Start of logging]
+30.05.2015 02:05:01.783 INFO     1 Start!!!  
+30.05.2015 02:05:01.830 INFO     1 Connected to server  
+30.05.2015 02:05:07.836 INFO     1 rrr position 1 18  
+30.05.2015 02:05:07.836 INFO     1 rrr tryed to 0  
+30.05.2015 02:05:07.930 INFO     1 rrr can move False  
+30.05.2015 02:05:07.930 INFO     1 rrr position 1 18  
+30.05.2015 02:05:07.930 INFO     1 rrr tryed to 1  
+30.05.2015 02:05:08.460 INFO     1 rrr can move False  
+[End of logging]
+
+[Start of logging]
+30.05.2015 02:20:31.994 INFO     1 Start!!!  
+30.05.2015 02:20:32.009 INFO     1 Connected to server  
+30.05.2015 02:20:35.209 INFO     1 rrr position 8 1  
+30.05.2015 02:20:35.209 INFO     1 rrr tryed to 1  
+[End of logging]
+
+[Start of logging]
+30.05.2015 02:21:27.751 INFO     1 Start!!!  
+30.05.2015 02:21:27.767 INFO     1 Connected to server  
+30.05.2015 02:21:31.401 INFO     1 rrr position 10 3  
+30.05.2015 02:21:31.401 INFO     1 rrr tryed to 3  
+30.05.2015 02:21:31.448 INFO     1 rrr can move True  
+30.05.2015 02:21:31.448 INFO     1 rrr position 9 3  
+30.05.2015 02:21:31.448 INFO     1 rrr tryed to 2  
+30.05.2015 02:21:32.025 INFO     1 rrr can move True  
+30.05.2015 02:21:32.025 INFO     1 rrr position 9 4  
+30.05.2015 02:21:32.025 INFO     1 rrr tryed to 3  
+30.05.2015 02:21:32.712 INFO     1 rrr can move True  
+30.05.2015 02:21:32.712 INFO     1 rrr position 8 4  
+30.05.2015 02:21:32.712 INFO     1 rrr tryed to 3  
+30.05.2015 02:21:33.383 INFO     1 rrr can move False  
+30.05.2015 02:21:33.383 INFO     1 rrr position 8 4  
+30.05.2015 02:21:33.383 INFO     1 rrr tryed to 0  
+30.05.2015 02:21:34.038 INFO     1 rrr can move True  
+30.05.2015 02:21:34.038 INFO     1 rrr position 8 3  
+30.05.2015 02:21:34.038 INFO     1 rrr tryed to 0  
+30.05.2015 02:21:34.709 INFO     1 rrr can move True  
+30.05.2015 02:21:34.709 INFO     1 rrr position 8 2  
+30.05.2015 02:21:34.709 INFO     1 rrr tryed to 0  
+30.05.2015 02:21:35.379 INFO     1 rrr can move True  
+30.05.2015 02:21:35.379 INFO     1 rrr position 8 1  
+30.05.2015 02:21:35.379 INFO     1 rrr tryed to 0  
+30.05.2015 02:21:36.050 INFO     1 rrr can move False  
+30.05.2015 02:21:36.050 INFO     1 rrr position 8 1  
+30.05.2015 02:21:36.050 INFO     1 rrr tryed to 3  
+30.05.2015 02:21:36.705 INFO     1 rrr can move False  
+[End of logging]
+
+[Start of logging]
+30.05.2015 02:22:18.748 INFO     1 Start!!!  
+[Start of logging]
+30.05.2015 02:22:41.446 INFO     1 Start!!!  
+30.05.2015 02:22:41.461 INFO     1 Connected to server  
+30.05.2015 02:22:46.110 INFO     1 rrr position 18 16  
+30.05.2015 02:22:46.110 INFO     1 rrr tryed to 3  
+30.05.2015 02:22:46.141 INFO     1 rrr can move False  
+30.05.2015 02:22:46.141 INFO     1 rrr position 18 16  
+30.05.2015 02:22:46.141 INFO     1 rrr tryed to 0  
+30.05.2015 02:22:46.594 INFO     1 rrr can move False  
+[End of logging]
+
+[Start of logging]
+30.05.2015 02:26:20.826 INFO     1 Start!!!  
+30.05.2015 02:26:20.841 INFO     1 Connected to server  
+30.05.2015 02:26:29.126 INFO     1 rrr position 2 16  
+30.05.2015 02:26:29.142 INFO     1 rrr tryed to 3  
+30.05.2015 02:26:29.188 INFO     1 rrr can move False  
+[End of logging]
+
+[Start of logging]
+30.05.2015 02:36:49.764 INFO     1 Start!!!  
+30.05.2015 02:36:49.780 INFO     1 Connected to server  
+30.05.2015 02:36:53.461 INFO     1 rrr position 17 5  
+30.05.2015 02:36:53.461 INFO     1 rrr tryed to 3  
+30.05.2015 02:36:53.617 INFO     1 rrr can move False  
+30.05.2015 02:36:53.617 INFO     1 rrr position 17 5  
+30.05.2015 02:36:53.617 INFO     1 rrr tryed to 0  
+30.05.2015 02:36:54.070 INFO     1 rrr can move False  
+30.05.2015 02:36:54.070 INFO     1 rrr position 17 5  
+30.05.2015 02:36:54.070 INFO     1 rrr tryed to 2  
+[End of logging]
+
+[Start of logging]
+30.05.2015 02:38:05.939 INFO     1 Start!!!  
+30.05.2015 02:38:05.986 INFO     1 Connected to server  
+30.05.2015 02:38:11.274 INFO     1 rrr position 18 4  
+30.05.2015 02:38:11.290 INFO     1 rrr tryed to 3  
+30.05.2015 02:38:11.352 INFO     1 rrr can move False  
+[End of logging]
+
+[Start of logging]
+30.05.2015 02:53:36.872 INFO     1 Start!!!  
+30.05.2015 02:53:36.918 INFO     1 Connected to server  
+30.05.2015 02:53:42.425 INFO     1 rrr position 16 16  
+30.05.2015 02:53:42.425 INFO     1 rrr tryed to 2  
+30.05.2015 02:53:42.472 INFO     1 rrr can move False  
+[End of logging]
+
+[Start of logging]
+30.05.2015 02:54:49.958 INFO     1 Start!!!  
+30.05.2015 02:54:49.973 INFO     1 Connected to server  
+30.05.2015 02:54:53.203 INFO     1 rrr position 17 15  
+30.05.2015 02:54:53.218 INFO     1 rrr tryed to 3  
+30.05.2015 02:54:53.374 INFO     1 rrr can move True  
+30.05.2015 02:54:53.374 INFO     1 rrr position 16 15  
+30.05.2015 02:54:53.374 INFO     1 rrr tryed to 2  
+30.05.2015 02:54:53.811 INFO     1 rrr can move True  
+30.05.2015 02:54:53.811 INFO     1 rrr position 16 16  
+30.05.2015 02:54:53.811 INFO     1 rrr tryed to 3  
+30.05.2015 02:54:54.451 INFO     1 rrr can move True  
+30.05.2015 02:54:54.451 INFO     1 rrr position 15 16  
+30.05.2015 02:54:54.451 INFO     1 rrr tryed to 3  
+30.05.2015 02:54:55.106 INFO     1 rrr can move False  
+30.05.2015 02:54:55.106 INFO     1 rrr position 15 16  
+30.05.2015 02:54:55.106 INFO     1 rrr tryed to 0  
+30.05.2015 02:54:55.745 INFO     1 rrr can move True  
+30.05.2015 02:54:55.745 INFO     1 rrr position 15 15  
+30.05.2015 02:54:55.745 INFO     1 rrr tryed to 3  
+30.05.2015 02:54:56.401 INFO     1 rrr can move True  
+30.05.2015 02:54:56.401 INFO     1 rrr position 14 15  
+30.05.2015 02:54:56.401 INFO     1 rrr tryed to 2  
+30.05.2015 02:54:57.056 INFO     1 rrr can move False  
+30.05.2015 02:54:57.056 INFO     1 rrr position 14 15  
+30.05.2015 02:54:57.056 INFO     1 rrr tryed to 0  
+30.05.2015 02:54:57.695 INFO     1 rrr can move False  
+30.05.2015 02:54:57.695 INFO     1 rrr position 14 15  
+30.05.2015 02:54:57.695 INFO     1 rrr tryed to 2  
+30.05.2015 02:54:58.351 INFO     1 rrr can move False  
+30.05.2015 02:54:58.351 INFO     1 rrr position 14 15  
+30.05.2015 02:54:58.351 INFO     1 rrr tryed to 0  
+30.05.2015 02:54:58.990 INFO     1 rrr can move False  
+30.05.2015 02:54:58.990 INFO     1 rrr position 14 15  
+30.05.2015 02:54:58.990 INFO     1 rrr tryed to 2  
+30.05.2015 02:54:59.630 INFO     1 rrr can move False  
+30.05.2015 02:54:59.645 INFO     1 rrr position 14 15  
+30.05.2015 02:54:59.645 INFO     1 rrr tryed to 0  
+30.05.2015 02:55:00.285 INFO     1 rrr can move False  
+30.05.2015 02:55:00.301 INFO     1 rrr position 14 15  
+30.05.2015 02:55:00.301 INFO     1 rrr tryed to 2  
+30.05.2015 02:55:00.940 INFO     1 rrr can move False  
+30.05.2015 02:55:00.940 INFO     1 rrr position 14 15  
+30.05.2015 02:55:00.940 INFO     1 rrr tryed to 0  
+30.05.2015 02:55:01.580 INFO     1 rrr can move False  
+30.05.2015 02:55:01.580 INFO     1 rrr position 14 15  
+30.05.2015 02:55:01.580 INFO     1 rrr tryed to 2  
+30.05.2015 02:55:02.235 INFO     1 rrr can move False  
+30.05.2015 02:55:02.235 INFO     1 rrr position 14 15  
+30.05.2015 02:55:02.235 INFO     1 rrr tryed to 0  
+30.05.2015 02:55:02.875 INFO     1 rrr can move False  
+30.05.2015 02:55:02.875 INFO     1 rrr position 14 15  
+30.05.2015 02:55:02.875 INFO     1 rrr tryed to 2  
+30.05.2015 02:55:03.530 INFO     1 rrr can move False  
+30.05.2015 02:55:03.530 INFO     1 rrr position 14 15  
+30.05.2015 02:55:03.530 INFO     1 rrr tryed to 0  
+30.05.2015 02:55:04.169 INFO     1 rrr can move False  
+30.05.2015 02:55:04.169 INFO     1 rrr position 14 15  
+30.05.2015 02:55:04.169 INFO     1 rrr tryed to 2  
+30.05.2015 02:55:04.825 INFO     1 rrr can move False  
+30.05.2015 02:55:04.825 INFO     1 rrr position 14 15  
+30.05.2015 02:55:04.825 INFO     1 rrr tryed to 0  
+30.05.2015 02:55:05.495 INFO     1 rrr can move False  
+30.05.2015 02:55:05.495 INFO     1 rrr position 14 15  
+30.05.2015 02:55:05.495 INFO     1 rrr tryed to 2  
+30.05.2015 02:55:06.148 INFO     1 rrr can move False  
+30.05.2015 02:55:06.148 INFO     1 rrr position 14 15  
+30.05.2015 02:55:06.148 INFO     1 rrr tryed to 0  
+30.05.2015 02:55:06.819 INFO     1 rrr can move False  
+30.05.2015 02:55:06.819 INFO     1 rrr position 14 15  
+30.05.2015 02:55:06.819 INFO     1 rrr tryed to 2  
+30.05.2015 02:55:07.474 INFO     1 rrr can move False  
+30.05.2015 02:55:07.474 INFO     1 rrr position 14 15  
+30.05.2015 02:55:07.474 INFO     1 rrr tryed to 0  
+30.05.2015 02:55:08.114 INFO     1 rrr can move False  
+30.05.2015 02:55:08.114 INFO     1 rrr position 14 15  
+30.05.2015 02:55:08.114 INFO     1 rrr tryed to 2  
+30.05.2015 02:55:08.800 INFO     1 rrr can move False  
+30.05.2015 02:55:08.800 INFO     1 rrr position 14 15  
+30.05.2015 02:55:08.800 INFO     1 rrr tryed to 0  
+30.05.2015 02:55:09.440 INFO     1 rrr can move False  
+30.05.2015 02:55:09.440 INFO     1 rrr position 14 15  
+30.05.2015 02:55:09.440 INFO     1 rrr tryed to 2  
+30.05.2015 02:55:10.064 INFO     1 rrr can move False  
+30.05.2015 02:55:10.064 INFO     1 rrr position 14 15  
+30.05.2015 02:55:10.064 INFO     1 rrr tryed to 0  
+30.05.2015 02:55:10.750 INFO     1 rrr can move False  
+30.05.2015 02:55:10.750 INFO     1 rrr position 14 15  
+30.05.2015 02:55:10.750 INFO     1 rrr tryed to 2  
+30.05.2015 02:55:11.390 INFO     1 rrr can move False  
+30.05.2015 02:55:11.390 INFO     1 rrr position 14 15  
+30.05.2015 02:55:11.390 INFO     1 rrr tryed to 0  
+30.05.2015 02:55:12.014 INFO     1 rrr can move False  
+30.05.2015 02:55:12.014 INFO     1 rrr position 14 15  
+30.05.2015 02:55:12.014 INFO     1 rrr tryed to 2  
+30.05.2015 02:55:12.669 INFO     1 rrr can move False  
+30.05.2015 02:55:12.669 INFO     1 rrr position 14 15  
+30.05.2015 02:55:12.669 INFO     1 rrr tryed to 0  
+30.05.2015 02:55:13.340 INFO     1 rrr can move False  
+30.05.2015 02:55:13.340 INFO     1 rrr position 14 15  
+30.05.2015 02:55:13.340 INFO     1 rrr tryed to 2  
+30.05.2015 02:55:13.948 INFO     1 rrr can move False  
+30.05.2015 02:55:13.948 INFO     1 rrr position 14 15  
+30.05.2015 02:55:13.948 INFO     1 rrr tryed to 0  
+30.05.2015 02:55:14.588 INFO     1 rrr can move False  
+30.05.2015 02:55:14.603 INFO     1 rrr position 14 15  
+30.05.2015 02:55:14.603 INFO     1 rrr tryed to 2  
+30.05.2015 02:55:15.258 INFO     1 rrr can move False  
+30.05.2015 02:55:15.274 INFO     1 rrr position 14 15  
+30.05.2015 02:55:15.274 INFO     1 rrr tryed to 0  
+30.05.2015 02:55:15.882 INFO     1 rrr can move False  
+30.05.2015 02:55:15.882 INFO     1 rrr position 14 15  
+30.05.2015 02:55:15.882 INFO     1 rrr tryed to 2  
+30.05.2015 02:55:16.600 INFO     1 rrr can move False  
+30.05.2015 02:55:16.600 INFO     1 rrr position 14 15  
+30.05.2015 02:55:16.600 INFO     1 rrr tryed to 0  
+30.05.2015 02:55:17.177 INFO     1 rrr can move False  
+30.05.2015 02:55:17.193 INFO     1 rrr position 14 15  
+30.05.2015 02:55:17.193 INFO     1 rrr tryed to 2  
+30.05.2015 02:55:17.832 INFO     1 rrr can move False  
+30.05.2015 02:55:17.832 INFO     1 rrr position 14 15  
+30.05.2015 02:55:17.832 INFO     1 rrr tryed to 0  
+30.05.2015 02:55:18.503 INFO     1 rrr can move False  
+30.05.2015 02:55:18.503 INFO     1 rrr position 14 15  
+30.05.2015 02:55:18.503 INFO     1 rrr tryed to 2  
+30.05.2015 02:55:19.158 INFO     1 rrr can move False  
+30.05.2015 02:55:19.174 INFO     1 rrr position 14 15  
+30.05.2015 02:55:19.174 INFO     1 rrr tryed to 0  
+30.05.2015 02:55:19.767 INFO     1 rrr can move False  
+30.05.2015 02:55:19.767 INFO     1 rrr position 14 15  
+30.05.2015 02:55:19.767 INFO     1 rrr tryed to 2  
+30.05.2015 02:55:20.469 INFO     1 rrr can move False  
+30.05.2015 02:55:20.469 INFO     1 rrr position 14 15  
+30.05.2015 02:55:20.469 INFO     1 rrr tryed to 0  
+30.05.2015 02:55:21.093 INFO     1 rrr can move False  
+30.05.2015 02:55:21.093 INFO     1 rrr position 14 15  
+30.05.2015 02:55:21.093 INFO     1 rrr tryed to 2  
+30.05.2015 02:55:21.701 INFO     1 rrr can move False  
+30.05.2015 02:55:21.701 INFO     1 rrr position 14 15  
+30.05.2015 02:55:21.717 INFO     1 rrr tryed to 0  
+30.05.2015 02:55:22.403 INFO     1 rrr can move False  
+30.05.2015 02:55:22.403 INFO     1 rrr position 14 15  
+30.05.2015 02:55:22.403 INFO     1 rrr tryed to 2  
+30.05.2015 02:55:23.027 INFO     1 rrr can move False  
+30.05.2015 02:55:23.027 INFO     1 rrr position 14 15  
+30.05.2015 02:55:23.027 INFO     1 rrr tryed to 0  
+30.05.2015 02:55:23.651 INFO     1 rrr can move False  
+30.05.2015 02:55:23.651 INFO     1 rrr position 14 15  
+30.05.2015 02:55:23.651 INFO     1 rrr tryed to 2  
+30.05.2015 02:55:24.291 INFO     1 rrr can move False  
+30.05.2015 02:55:24.306 INFO     1 rrr position 14 15  
+30.05.2015 02:55:24.306 INFO     1 rrr tryed to 0  
+30.05.2015 02:55:24.977 INFO     1 rrr can move False  
+30.05.2015 02:55:24.977 INFO     1 rrr position 14 15  
+30.05.2015 02:55:24.977 INFO     1 rrr tryed to 2  
+30.05.2015 02:55:25.601 INFO     1 rrr can move False  
+30.05.2015 02:55:25.601 INFO     1 rrr position 14 15  
+30.05.2015 02:55:25.601 INFO     1 rrr tryed to 0  
+30.05.2015 02:55:26.241 INFO     1 rrr can move False  
+30.05.2015 02:55:26.241 INFO     1 rrr position 14 15  
+30.05.2015 02:55:26.241 INFO     1 rrr tryed to 2  
+30.05.2015 02:55:26.958 INFO     1 rrr can move False  
+30.05.2015 02:55:26.958 INFO     1 rrr position 14 15  
+30.05.2015 02:55:26.958 INFO     1 rrr tryed to 0  
+30.05.2015 02:55:27.567 INFO     1 rrr can move False  
+30.05.2015 02:55:27.567 INFO     1 rrr position 14 15  
+30.05.2015 02:55:27.567 INFO     1 rrr tryed to 2  
+30.05.2015 02:55:28.191 INFO     1 rrr can move False  
+30.05.2015 02:55:28.191 INFO     1 rrr position 14 15  
+30.05.2015 02:55:28.191 INFO     1 rrr tryed to 0  
+30.05.2015 02:55:28.846 INFO     1 rrr can move False  
+30.05.2015 02:55:28.846 INFO     1 rrr position 14 15  
+30.05.2015 02:55:28.846 INFO     1 rrr tryed to 2  
+30.05.2015 02:55:29.501 INFO     1 rrr can move False  
+30.05.2015 02:55:29.501 INFO     1 rrr position 14 15  
+30.05.2015 02:55:29.501 INFO     1 rrr tryed to 0  
+30.05.2015 02:55:30.141 INFO     1 rrr can move False  
+30.05.2015 02:55:30.141 INFO     1 rrr position 14 15  
+30.05.2015 02:55:30.141 INFO     1 rrr tryed to 2  
+30.05.2015 02:55:30.827 INFO     1 rrr can move False  
+30.05.2015 02:55:30.843 INFO     1 rrr position 14 15  
+30.05.2015 02:55:30.843 INFO     1 rrr tryed to 0  
+30.05.2015 02:55:31.451 INFO     1 rrr can move False  
+30.05.2015 02:55:31.451 INFO     1 rrr position 14 15  
+30.05.2015 02:55:31.451 INFO     1 rrr tryed to 2  
+30.05.2015 02:55:32.154 INFO     1 rrr can move False  
+30.05.2015 02:55:32.154 INFO     1 rrr position 14 15  
+30.05.2015 02:55:32.154 INFO     1 rrr tryed to 0  
+30.05.2015 02:55:32.763 INFO     1 rrr can move False  
+30.05.2015 02:55:32.763 INFO     1 rrr position 14 15  
+30.05.2015 02:55:32.763 INFO     1 rrr tryed to 2  
+30.05.2015 02:55:33.387 INFO     1 rrr can move False  
+30.05.2015 02:55:33.387 INFO     1 rrr position 14 15  
+30.05.2015 02:55:33.387 INFO     1 rrr tryed to 0  
+30.05.2015 02:55:34.089 INFO     1 rrr can move False  
+30.05.2015 02:55:34.089 INFO     1 rrr position 14 15  
+30.05.2015 02:55:34.089 INFO     1 rrr tryed to 2  
+30.05.2015 02:55:34.681 INFO     1 rrr can move False  
+30.05.2015 02:55:34.681 INFO     1 rrr position 14 15  
+30.05.2015 02:55:34.681 INFO     1 rrr tryed to 0  
+30.05.2015 02:55:35.321 INFO     1 rrr can move False  
+30.05.2015 02:55:35.321 INFO     1 rrr position 14 15  
+30.05.2015 02:55:35.321 INFO     1 rrr tryed to 2  
+30.05.2015 02:55:35.992 INFO     1 rrr can move False  
+30.05.2015 02:55:35.992 INFO     1 rrr position 14 15  
+30.05.2015 02:55:35.992 INFO     1 rrr tryed to 0  
+30.05.2015 02:55:36.616 INFO     1 rrr can move False  
+30.05.2015 02:55:36.616 INFO     1 rrr position 14 15  
+30.05.2015 02:55:36.616 INFO     1 rrr tryed to 2  
+30.05.2015 02:55:37.333 INFO     1 rrr can move False  
+30.05.2015 02:55:37.333 INFO     1 rrr position 14 15  
+30.05.2015 02:55:37.333 INFO     1 rrr tryed to 0  
+30.05.2015 02:55:37.926 INFO     1 rrr can move False  
+30.05.2015 02:55:37.942 INFO     1 rrr position 14 15  
+30.05.2015 02:55:37.942 INFO     1 rrr tryed to 2  
+30.05.2015 02:55:38.566 INFO     1 rrr can move False  
+30.05.2015 02:55:38.566 INFO     1 rrr position 14 15  
+30.05.2015 02:55:38.566 INFO     1 rrr tryed to 0  
+30.05.2015 02:55:39.283 INFO     1 rrr can move False  
+30.05.2015 02:55:39.283 INFO     1 rrr position 14 15  
+30.05.2015 02:55:39.283 INFO     1 rrr tryed to 2  
+30.05.2015 02:55:39.907 INFO     1 rrr can move False  
+30.05.2015 02:55:39.907 INFO     1 rrr position 14 15  
+30.05.2015 02:55:39.907 INFO     1 rrr tryed to 0  
+30.05.2015 02:55:40.531 INFO     1 rrr can move False  
+30.05.2015 02:55:40.531 INFO     1 rrr position 14 15  
+30.05.2015 02:55:40.531 INFO     1 rrr tryed to 2  
+30.05.2015 02:55:41.265 INFO     1 rrr can move False  
+30.05.2015 02:55:41.265 INFO     1 rrr position 14 15  
+30.05.2015 02:55:41.265 INFO     1 rrr tryed to 0  
+30.05.2015 02:55:41.857 INFO     1 rrr can move False  
+30.05.2015 02:55:41.857 INFO     1 rrr position 14 15  
+30.05.2015 02:55:41.857 INFO     1 rrr tryed to 2  
+30.05.2015 02:55:42.481 INFO     1 rrr can move False  
+30.05.2015 02:55:42.481 INFO     1 rrr position 14 15  
+30.05.2015 02:55:42.481 INFO     1 rrr tryed to 0  
+30.05.2015 02:55:43.121 INFO     1 rrr can move False  
+30.05.2015 02:55:43.121 INFO     1 rrr position 14 15  
+30.05.2015 02:55:43.121 INFO     1 rrr tryed to 2  
+30.05.2015 02:55:43.839 INFO     1 rrr can move False  
+30.05.2015 02:55:43.839 INFO     1 rrr position 14 15  
+30.05.2015 02:55:43.839 INFO     1 rrr tryed to 0  
+30.05.2015 02:55:44.447 INFO     1 rrr can move False  
+30.05.2015 02:55:44.447 INFO     1 rrr position 14 15  
+30.05.2015 02:55:44.447 INFO     1 rrr tryed to 2  
+30.05.2015 02:55:45.087 INFO     1 rrr can move False  
+30.05.2015 02:55:45.087 INFO     1 rrr position 14 15  
+30.05.2015 02:55:45.087 INFO     1 rrr tryed to 0  
+30.05.2015 02:55:45.804 INFO     1 rrr can move False  
+30.05.2015 02:55:45.804 INFO     1 rrr position 14 15  
+30.05.2015 02:55:45.804 INFO     1 rrr tryed to 2  
+30.05.2015 02:55:46.397 INFO     1 rrr can move False  
+30.05.2015 02:55:46.397 INFO     1 rrr position 14 15  
+30.05.2015 02:55:46.397 INFO     1 rrr tryed to 0  
+30.05.2015 02:55:47.021 INFO     1 rrr can move False  
+30.05.2015 02:55:47.021 INFO     1 rrr position 14 15  
+30.05.2015 02:55:47.021 INFO     1 rrr tryed to 2  
+30.05.2015 02:55:47.723 INFO     1 rrr can move False  
+30.05.2015 02:55:47.723 INFO     1 rrr position 14 15  
+30.05.2015 02:55:47.723 INFO     1 rrr tryed to 0  
+30.05.2015 02:55:48.347 INFO     1 rrr can move False  
+30.05.2015 02:55:48.347 INFO     1 rrr position 14 15  
+30.05.2015 02:55:48.347 INFO     1 rrr tryed to 2  
+30.05.2015 02:55:48.956 INFO     1 rrr can move False  
+30.05.2015 02:55:48.956 INFO     1 rrr position 14 15  
+30.05.2015 02:55:48.956 INFO     1 rrr tryed to 0  
+30.05.2015 02:55:49.626 INFO     1 rrr can move False  
+30.05.2015 02:55:49.626 INFO     1 rrr position 14 15  
+30.05.2015 02:55:49.626 INFO     1 rrr tryed to 2  
+30.05.2015 02:55:50.297 INFO     1 rrr can move False  
+30.05.2015 02:55:50.297 INFO     1 rrr position 14 15  
+30.05.2015 02:55:50.297 INFO     1 rrr tryed to 0  
+30.05.2015 02:55:50.906 INFO     1 rrr can move False  
+30.05.2015 02:55:50.906 INFO     1 rrr position 14 15  
+30.05.2015 02:55:50.906 INFO     1 rrr tryed to 2  
+30.05.2015 02:55:51.623 INFO     1 rrr can move False  
+30.05.2015 02:55:51.623 INFO     1 rrr position 14 15  
+30.05.2015 02:55:51.623 INFO     1 rrr tryed to 0  
+30.05.2015 02:55:52.263 INFO     1 rrr can move False  
+30.05.2015 02:55:52.263 INFO     1 rrr position 14 15  
+30.05.2015 02:55:52.263 INFO     1 rrr tryed to 2  
+30.05.2015 02:55:52.840 INFO     1 rrr can move False  
+30.05.2015 02:55:52.856 INFO     1 rrr position 14 15  
+30.05.2015 02:55:52.856 INFO     1 rrr tryed to 0  
+30.05.2015 02:55:53.495 INFO     1 rrr can move False  
+30.05.2015 02:55:53.495 INFO     1 rrr position 14 15  
+30.05.2015 02:55:53.495 INFO     1 rrr tryed to 2  
+30.05.2015 02:55:54.197 INFO     1 rrr can move False  
+30.05.2015 02:55:54.197 INFO     1 rrr position 14 15  
+30.05.2015 02:55:54.197 INFO     1 rrr tryed to 0  
+30.05.2015 02:55:54.774 INFO     1 rrr can move False  
+30.05.2015 02:55:54.774 INFO     1 rrr position 14 15  
+30.05.2015 02:55:54.774 INFO     1 rrr tryed to 2  
+30.05.2015 02:55:55.414 INFO     1 rrr can move False  
+30.05.2015 02:55:55.414 INFO     1 rrr position 14 15  
+30.05.2015 02:55:55.414 INFO     1 rrr tryed to 0  
+30.05.2015 02:55:56.085 INFO     1 rrr can move False  
+30.05.2015 02:55:56.085 INFO     1 rrr position 14 15  
+30.05.2015 02:55:56.085 INFO     1 rrr tryed to 2  
+30.05.2015 02:55:56.709 INFO     1 rrr can move False  
+30.05.2015 02:55:56.709 INFO     1 rrr position 14 15  
+30.05.2015 02:55:56.709 INFO     1 rrr tryed to 0  
+30.05.2015 02:55:57.426 INFO     1 rrr can move False  
+30.05.2015 02:55:57.426 INFO     1 rrr position 14 15  
+30.05.2015 02:55:57.426 INFO     1 rrr tryed to 2  
+30.05.2015 02:55:58.004 INFO     1 rrr can move False  
+30.05.2015 02:55:58.004 INFO     1 rrr position 14 15  
+30.05.2015 02:55:58.004 INFO     1 rrr tryed to 0  
+30.05.2015 02:55:58.643 INFO     1 rrr can move False  
+30.05.2015 02:55:58.643 INFO     1 rrr position 14 15  
+30.05.2015 02:55:58.643 INFO     1 rrr tryed to 2  
+30.05.2015 02:55:59.345 INFO     1 rrr can move False  
+30.05.2015 02:55:59.345 INFO     1 rrr position 14 15  
+30.05.2015 02:55:59.345 INFO     1 rrr tryed to 0  
+30.05.2015 02:55:59.938 INFO     1 rrr can move False  
+30.05.2015 02:55:59.938 INFO     1 rrr position 14 15  
+30.05.2015 02:55:59.938 INFO     1 rrr tryed to 2  
+30.05.2015 02:56:00.593 INFO     1 rrr can move False  
+30.05.2015 02:56:00.593 INFO     1 rrr position 14 15  
+30.05.2015 02:56:00.593 INFO     1 rrr tryed to 0  
+30.05.2015 02:56:01.248 INFO     1 rrr can move False  
+30.05.2015 02:56:01.248 INFO     1 rrr position 14 15  
+30.05.2015 02:56:01.248 INFO     1 rrr tryed to 2  
+30.05.2015 02:56:01.950 INFO     1 rrr can move False  
+30.05.2015 02:56:01.950 INFO     1 rrr position 14 15  
+30.05.2015 02:56:01.950 INFO     1 rrr tryed to 0  
+30.05.2015 02:56:02.574 INFO     1 rrr can move False  
+30.05.2015 02:56:02.590 INFO     1 rrr position 14 15  
+30.05.2015 02:56:02.590 INFO     1 rrr tryed to 2  
+30.05.2015 02:56:03.198 INFO     1 rrr can move False  
+30.05.2015 02:56:03.198 INFO     1 rrr position 14 15  
+30.05.2015 02:56:03.198 INFO     1 rrr tryed to 0  
+30.05.2015 02:56:03.916 INFO     1 rrr can move False  
+30.05.2015 02:56:03.916 INFO     1 rrr position 14 15  
+30.05.2015 02:56:03.916 INFO     1 rrr tryed to 2  
+30.05.2015 02:56:04.524 INFO     1 rrr can move False  
+30.05.2015 02:56:04.524 INFO     1 rrr position 14 15  
+30.05.2015 02:56:04.524 INFO     1 rrr tryed to 0  
+30.05.2015 02:56:05.148 INFO     1 rrr can move False  
+30.05.2015 02:56:05.148 INFO     1 rrr position 14 15  
+30.05.2015 02:56:05.148 INFO     1 rrr tryed to 2  
+30.05.2015 02:56:05.788 INFO     1 rrr can move False  
+30.05.2015 02:56:05.788 INFO     1 rrr position 14 15  
+30.05.2015 02:56:05.788 INFO     1 rrr tryed to 0  
+30.05.2015 02:56:06.443 INFO     1 rrr can move False  
+30.05.2015 02:56:06.443 INFO     1 rrr position 14 15  
+30.05.2015 02:56:06.443 INFO     1 rrr tryed to 2  
+30.05.2015 02:56:07.083 INFO     1 rrr can move False  
+30.05.2015 02:56:07.083 INFO     1 rrr position 14 15  
+30.05.2015 02:56:07.083 INFO     1 rrr tryed to 0  
+30.05.2015 02:56:07.722 INFO     1 rrr can move False  
+30.05.2015 02:56:07.722 INFO     1 rrr position 14 15  
+30.05.2015 02:56:07.722 INFO     1 rrr tryed to 2  
+30.05.2015 02:56:08.393 INFO     1 rrr can move False  
+30.05.2015 02:56:08.393 INFO     1 rrr position 14 15  
+30.05.2015 02:56:08.393 INFO     1 rrr tryed to 0  
+30.05.2015 02:56:09.017 INFO     1 rrr can move False  
+30.05.2015 02:56:09.017 INFO     1 rrr position 14 15  
+30.05.2015 02:56:09.017 INFO     1 rrr tryed to 2  
+30.05.2015 02:56:09.735 INFO     1 rrr can move False  
+30.05.2015 02:56:09.735 INFO     1 rrr position 14 15  
+30.05.2015 02:56:09.735 INFO     1 rrr tryed to 0  
+30.05.2015 02:56:10.359 INFO     1 rrr can move False  
+30.05.2015 02:56:10.359 INFO     1 rrr position 14 15  
+30.05.2015 02:56:10.359 INFO     1 rrr tryed to 2  
+30.05.2015 02:56:10.952 INFO     1 rrr can move False  
+30.05.2015 02:56:10.952 INFO     1 rrr position 14 15  
+30.05.2015 02:56:10.952 INFO     1 rrr tryed to 0  
+30.05.2015 02:56:11.654 INFO     1 rrr can move False  
+30.05.2015 02:56:11.654 INFO     1 rrr position 14 15  
+30.05.2015 02:56:11.654 INFO     1 rrr tryed to 2  
+30.05.2015 02:56:12.262 INFO     1 rrr can move False  
+30.05.2015 02:56:12.262 INFO     1 rrr position 14 15  
+30.05.2015 02:56:12.262 INFO     1 rrr tryed to 0  
+30.05.2015 02:56:12.886 INFO     1 rrr can move False  
+30.05.2015 02:56:12.886 INFO     1 rrr position 14 15  
+30.05.2015 02:56:12.886 INFO     1 rrr tryed to 2  
+30.05.2015 02:56:13.588 INFO     1 rrr can move False  
+30.05.2015 02:56:13.588 INFO     1 rrr position 14 15  
+30.05.2015 02:56:13.588 INFO     1 rrr tryed to 0  
+30.05.2015 02:56:14.196 INFO     1 rrr can move False  
+30.05.2015 02:56:14.196 INFO     1 rrr position 14 15  
+30.05.2015 02:56:14.196 INFO     1 rrr tryed to 2  
+30.05.2015 02:56:14.820 INFO     1 rrr can move False  
+30.05.2015 02:56:14.820 INFO     1 rrr position 14 15  
+30.05.2015 02:56:14.820 INFO     1 rrr tryed to 0  
+30.05.2015 02:56:15.538 INFO     1 rrr can move False  
+30.05.2015 02:56:15.538 INFO     1 rrr position 14 15  
+30.05.2015 02:56:15.538 INFO     1 rrr tryed to 2  
+30.05.2015 02:56:16.146 INFO     1 rrr can move False  
+30.05.2015 02:56:16.146 INFO     1 rrr position 14 15  
+30.05.2015 02:56:16.146 INFO     1 rrr tryed to 0  
+30.05.2015 02:56:16.755 INFO     1 rrr can move False  
+30.05.2015 02:56:16.755 INFO     1 rrr position 14 15  
+30.05.2015 02:56:16.755 INFO     1 rrr tryed to 2  
+30.05.2015 02:56:17.394 INFO     1 rrr can move False  
+30.05.2015 02:56:17.394 INFO     1 rrr position 14 15  
+30.05.2015 02:56:17.394 INFO     1 rrr tryed to 0  
+30.05.2015 02:56:18.034 INFO     1 rrr can move False  
+30.05.2015 02:56:18.034 INFO     1 rrr position 14 15  
+30.05.2015 02:56:18.034 INFO     1 rrr tryed to 2  
+30.05.2015 02:56:18.720 INFO     1 rrr can move False  
+30.05.2015 02:56:18.720 INFO     1 Game over!  
+[End of logging]
+
+[Start of logging]
+30.05.2015 03:04:58.223 INFO     1 Start!!!  
+30.05.2015 03:04:58.223 INFO     1 Connected to server  
+30.05.2015 03:05:04.713 INFO     1 rrr position 4 17  
+30.05.2015 03:05:04.713 INFO     1 rrr tryed to 1  
+30.05.2015 03:05:04.728 INFO     1 rrr can move True  
+30.05.2015 03:05:04.728 INFO     1 rrr position 5 17  
+30.05.2015 03:05:04.728 INFO     1 rrr tryed to 2  
+30.05.2015 03:05:05.165 INFO     1 rrr can move True  
+30.05.2015 03:05:05.165 INFO     1 rrr position 5 18  
+30.05.2015 03:05:05.165 INFO     1 rrr tryed to 2  
+30.05.2015 03:05:05.805 INFO     1 rrr can move True  
+30.05.2015 03:05:05.805 INFO     1 rrr position 5 19  
+30.05.2015 03:05:05.805 INFO     1 rrr tryed to 1  
+[End of logging]
+
+[Start of logging]
+30.05.2015 03:06:08.610 INFO     1 Start!!!  
+30.05.2015 03:06:08.626 INFO     1 Connected to server  
+30.05.2015 03:06:10.030 INFO     1 rrr position 12 17  
+30.05.2015 03:06:10.046 INFO     1 rrr tryed to 1  
+30.05.2015 03:06:10.139 INFO     1 rrr can move True  
+30.05.2015 03:06:10.139 INFO     1 rrr position 13 17  
+30.05.2015 03:06:10.139 INFO     1 rrr tryed to 2  
+30.05.2015 03:06:10.716 INFO     1 rrr can move False  
+[End of logging]
+
+[Start of logging]
+30.05.2015 03:12:48.548 INFO     1 Start!!!  
+30.05.2015 03:12:48.548 INFO     1 Connected to server  
+30.05.2015 03:12:51.372 INFO     1 rrr position 2 3  
+30.05.2015 03:12:51.372 INFO     1 rrr tryed to 0  
+30.05.2015 03:12:51.418 INFO     1 rrr can move False  
+30.05.2015 03:12:51.418 INFO     1 rrr position 2 3  
+30.05.2015 03:12:51.418 INFO     1 rrr tryed to 1  
+30.05.2015 03:12:51.918 INFO     1 rrr can move False  
+30.05.2015 03:12:51.918 INFO     1 rrr position 2 3  
+30.05.2015 03:12:51.918 INFO     1 rrr tryed to 0  
+30.05.2015 03:12:52.542 INFO     1 rrr can move False  
+30.05.2015 03:12:52.557 INFO     1 rrr position 2 3  
+30.05.2015 03:12:52.557 INFO     1 rrr tryed to 1  
+30.05.2015 03:12:53.166 INFO     1 rrr can move True  
+30.05.2015 03:12:53.166 INFO     1 rrr position 3 3  
+30.05.2015 03:12:53.181 INFO     1 rrr tryed to 1  
+30.05.2015 03:12:53.790 INFO     1 rrr can move False  
+30.05.2015 03:12:53.790 INFO     1 rrr position 3 3  
+30.05.2015 03:12:53.790 INFO     1 rrr tryed to 3  
+30.05.2015 03:12:54.429 INFO     1 rrr can move True  
+30.05.2015 03:12:54.429 INFO     1 rrr position 2 3  
+30.05.2015 03:12:54.429 INFO     1 rrr tryed to 1  
+30.05.2015 03:12:55.053 INFO     1 rrr can move True  
+30.05.2015 03:12:55.053 INFO     1 rrr position 3 3  
+30.05.2015 03:12:55.053 INFO     1 rrr tryed to 1  
+30.05.2015 03:12:55.740 INFO     1 rrr can move False  
+30.05.2015 03:12:55.740 INFO     1 rrr position 3 3  
+30.05.2015 03:12:55.740 INFO     1 rrr tryed to 3  
+30.05.2015 03:12:56.301 INFO     1 rrr can move True  
+30.05.2015 03:12:56.301 INFO     1 rrr position 2 3  
+30.05.2015 03:12:56.301 INFO     1 rrr tryed to 0  
+30.05.2015 03:12:56.925 INFO     1 rrr can move False  
+30.05.2015 03:12:56.925 INFO     1 rrr position 2 3  
+30.05.2015 03:12:56.925 INFO     1 rrr tryed to 1  
+30.05.2015 03:12:57.549 INFO     1 rrr can move True  
+30.05.2015 03:12:57.549 INFO     1 rrr position 3 3  
+30.05.2015 03:12:57.549 INFO     1 rrr tryed to 1  
+30.05.2015 03:12:58.173 INFO     1 rrr can move False  
+30.05.2015 03:12:58.189 INFO     1 rrr position 3 3  
+30.05.2015 03:12:58.189 INFO     1 rrr tryed to 3  
+30.05.2015 03:12:58.797 INFO     1 rrr can move True  
+30.05.2015 03:12:58.797 INFO     1 rrr position 2 3  
+30.05.2015 03:12:58.797 INFO     1 rrr tryed to 0  
+30.05.2015 03:12:59.421 INFO     1 rrr can move False  
+30.05.2015 03:12:59.421 INFO     1 rrr position 2 3  
+30.05.2015 03:12:59.421 INFO     1 rrr tryed to 1  
+30.05.2015 03:13:00.045 INFO     1 rrr can move True  
+30.05.2015 03:13:00.045 INFO     1 rrr position 3 3  
+30.05.2015 03:13:00.045 INFO     1 rrr tryed to 1  
+30.05.2015 03:13:00.669 INFO     1 rrr can move False  
+30.05.2015 03:13:00.669 INFO     1 rrr position 3 3  
+30.05.2015 03:13:00.669 INFO     1 rrr tryed to 3  
+30.05.2015 03:13:01.293 INFO     1 rrr can move True  
+30.05.2015 03:13:01.293 INFO     1 rrr position 2 3  
+30.05.2015 03:13:01.293 INFO     1 rrr tryed to 0  
+30.05.2015 03:13:01.917 INFO     1 rrr can move False  
+30.05.2015 03:13:01.917 INFO     1 rrr position 2 3  
+30.05.2015 03:13:01.917 INFO     1 rrr tryed to 1  
+30.05.2015 03:13:02.541 INFO     1 rrr can move True  
+30.05.2015 03:13:02.541 INFO     1 rrr position 3 3  
+30.05.2015 03:13:02.541 INFO     1 rrr tryed to 1  
+30.05.2015 03:13:03.165 INFO     1 rrr can move False  
+30.05.2015 03:13:03.165 INFO     1 rrr position 3 3  
+30.05.2015 03:13:03.165 INFO     1 rrr tryed to 3  
+30.05.2015 03:13:03.774 INFO     1 rrr can move True  
+30.05.2015 03:13:03.774 INFO     1 rrr position 2 3  
+30.05.2015 03:13:03.774 INFO     1 rrr tryed to 0  
+30.05.2015 03:13:04.398 INFO     1 rrr can move False  
+30.05.2015 03:13:04.398 INFO     1 rrr position 2 3  
+30.05.2015 03:13:04.398 INFO     1 rrr tryed to 1  
+30.05.2015 03:13:05.022 INFO     1 rrr can move True  
+30.05.2015 03:13:05.022 INFO     1 rrr position 3 3  
+30.05.2015 03:13:05.022 INFO     1 rrr tryed to 1  
+30.05.2015 03:13:05.646 INFO     1 rrr can move False  
+30.05.2015 03:13:05.646 INFO     1 rrr position 3 3  
+30.05.2015 03:13:05.646 INFO     1 rrr tryed to 3  
+30.05.2015 03:13:06.254 INFO     1 rrr can move True  
+30.05.2015 03:13:06.254 INFO     1 rrr position 2 3  
+30.05.2015 03:13:06.254 INFO     1 rrr tryed to 0  
+30.05.2015 03:13:06.878 INFO     1 rrr can move False  
+30.05.2015 03:13:06.878 INFO     1 rrr position 2 3  
+30.05.2015 03:13:06.878 INFO     1 rrr tryed to 1  
+30.05.2015 03:13:07.518 INFO     1 rrr can move True  
+30.05.2015 03:13:07.518 INFO     1 rrr position 3 3  
+30.05.2015 03:13:07.518 INFO     1 rrr tryed to 1  
+30.05.2015 03:13:08.142 INFO     1 rrr can move False  
+30.05.2015 03:13:08.142 INFO     1 rrr position 3 3  
+30.05.2015 03:13:08.142 INFO     1 rrr tryed to 3  
+30.05.2015 03:13:08.766 INFO     1 rrr can move True  
+30.05.2015 03:13:08.766 INFO     1 rrr position 2 3  
+30.05.2015 03:13:08.766 INFO     1 rrr tryed to 0  
+30.05.2015 03:13:09.390 INFO     1 rrr can move False  
+30.05.2015 03:13:09.390 INFO     1 rrr position 2 3  
+30.05.2015 03:13:09.390 INFO     1 rrr tryed to 1  
+30.05.2015 03:13:10.014 INFO     1 rrr can move True  
+30.05.2015 03:13:10.014 INFO     1 rrr position 3 3  
+30.05.2015 03:13:10.014 INFO     1 rrr tryed to 1  
+30.05.2015 03:13:10.638 INFO     1 rrr can move False  
+30.05.2015 03:13:10.638 INFO     1 rrr position 3 3  
+30.05.2015 03:13:10.638 INFO     1 rrr tryed to 3  
+30.05.2015 03:13:11.262 INFO     1 rrr can move True  
+30.05.2015 03:13:11.262 INFO     1 rrr position 2 3  
+30.05.2015 03:13:11.262 INFO     1 rrr tryed to 0  
+30.05.2015 03:13:11.901 INFO     1 rrr can move False  
+30.05.2015 03:13:11.901 INFO     1 rrr position 2 3  
+30.05.2015 03:13:11.901 INFO     1 rrr tryed to 1  
+30.05.2015 03:13:12.525 INFO     1 rrr can move True  
+30.05.2015 03:13:12.525 INFO     1 rrr position 3 3  
+30.05.2015 03:13:12.525 INFO     1 rrr tryed to 1  
+30.05.2015 03:13:13.149 INFO     1 rrr can move False  
+30.05.2015 03:13:13.149 INFO     1 rrr position 3 3  
+30.05.2015 03:13:13.149 INFO     1 rrr tryed to 3  
+30.05.2015 03:13:13.773 INFO     1 rrr can move True  
+30.05.2015 03:13:13.773 INFO     1 rrr position 2 3  
+30.05.2015 03:13:13.773 INFO     1 rrr tryed to 0  
+30.05.2015 03:13:14.397 INFO     1 rrr can move False  
+30.05.2015 03:13:14.397 INFO     1 rrr position 2 3  
+30.05.2015 03:13:14.397 INFO     1 rrr tryed to 1  
+30.05.2015 03:13:15.021 INFO     1 rrr can move True  
+30.05.2015 03:13:15.021 INFO     1 rrr position 3 3  
+30.05.2015 03:13:15.021 INFO     1 rrr tryed to 1  
+30.05.2015 03:13:15.645 INFO     1 rrr can move False  
+30.05.2015 03:13:15.645 INFO     1 rrr position 3 3  
+30.05.2015 03:13:15.645 INFO     1 rrr tryed to 3  
+30.05.2015 03:13:16.285 INFO     1 rrr can move True  
+30.05.2015 03:13:16.285 INFO     1 rrr position 2 3  
+30.05.2015 03:13:16.285 INFO     1 rrr tryed to 0  
+[End of logging]
+
+[Start of logging]
+30.05.2015 03:13:29.202 INFO     1 Start!!!  
+30.05.2015 03:13:29.202 INFO     1 Connected to server  
+30.05.2015 03:13:32.056 INFO     1 rrr position 1 4  
+30.05.2015 03:13:32.056 INFO     1 rrr tryed to 1  
+30.05.2015 03:13:32.072 INFO     1 rrr can move True  
+30.05.2015 03:13:32.072 INFO     1 rrr position 2 4  
+30.05.2015 03:13:32.072 INFO     1 rrr tryed to 1  
+30.05.2015 03:13:32.712 INFO     1 rrr can move True  
+30.05.2015 03:13:32.712 INFO     1 rrr position 3 4  
+30.05.2015 03:13:32.712 INFO     1 rrr tryed to 1  
+30.05.2015 03:13:33.336 INFO     1 rrr can move True  
+30.05.2015 03:13:33.351 INFO     1 rrr position 4 4  
+30.05.2015 03:13:33.351 INFO     1 rrr tryed to 0  
+30.05.2015 03:13:33.960 INFO     1 rrr can move False  
+30.05.2015 03:13:33.960 INFO     1 rrr position 4 4  
+30.05.2015 03:13:33.960 INFO     1 rrr tryed to 2  
+30.05.2015 03:13:34.584 INFO     1 rrr can move False  
+30.05.2015 03:13:34.584 INFO     1 rrr position 4 4  
+30.05.2015 03:13:34.584 INFO     1 rrr tryed to 0  
+30.05.2015 03:13:35.223 INFO     1 rrr can move False  
+30.05.2015 03:13:35.223 INFO     1 rrr position 4 4  
+30.05.2015 03:13:35.223 INFO     1 rrr tryed to 2  
+30.05.2015 03:13:35.847 INFO     1 rrr can move False  
+30.05.2015 03:13:35.847 INFO     1 rrr position 4 4  
+30.05.2015 03:13:35.847 INFO     1 rrr tryed to 0  
+30.05.2015 03:13:36.471 INFO     1 rrr can move False  
+30.05.2015 03:13:36.471 INFO     1 rrr position 4 4  
+30.05.2015 03:13:36.471 INFO     1 rrr tryed to 2  
+30.05.2015 03:13:37.095 INFO     1 rrr can move False  
+30.05.2015 03:13:37.095 INFO     1 rrr position 4 4  
+30.05.2015 03:13:37.095 INFO     1 rrr tryed to 0  
+30.05.2015 03:13:37.719 INFO     1 rrr can move False  
+30.05.2015 03:13:37.719 INFO     1 rrr position 4 4  
+30.05.2015 03:13:37.719 INFO     1 rrr tryed to 2  
+30.05.2015 03:13:38.328 INFO     1 rrr can move False  
+30.05.2015 03:13:38.328 INFO     1 rrr position 4 4  
+30.05.2015 03:13:38.328 INFO     1 rrr tryed to 0  
+30.05.2015 03:13:38.952 INFO     1 rrr can move False  
+30.05.2015 03:13:38.952 INFO     1 rrr position 4 4  
+30.05.2015 03:13:38.952 INFO     1 rrr tryed to 2  
+30.05.2015 03:13:39.576 INFO     1 rrr can move False  
+30.05.2015 03:13:39.576 INFO     1 rrr position 4 4  
+30.05.2015 03:13:39.576 INFO     1 rrr tryed to 0  
+30.05.2015 03:13:40.215 INFO     1 rrr can move False  
+30.05.2015 03:13:40.215 INFO     1 rrr position 4 4  
+30.05.2015 03:13:40.215 INFO     1 rrr tryed to 2  
+30.05.2015 03:13:40.839 INFO     1 rrr can move False  
+30.05.2015 03:13:40.839 INFO     1 rrr position 4 4  
+30.05.2015 03:13:40.839 INFO     1 rrr tryed to 0  
+30.05.2015 03:13:41.479 INFO     1 rrr can move False  
+30.05.2015 03:13:41.479 INFO     1 rrr position 4 4  
+30.05.2015 03:13:41.479 INFO     1 rrr tryed to 2  
+30.05.2015 03:13:42.103 INFO     1 rrr can move False  
+30.05.2015 03:13:42.103 INFO     1 rrr position 4 4  
+30.05.2015 03:13:42.103 INFO     1 rrr tryed to 0  
+30.05.2015 03:13:42.727 INFO     1 rrr can move False  
+30.05.2015 03:13:42.727 INFO     1 rrr position 4 4  
+30.05.2015 03:13:42.727 INFO     1 rrr tryed to 2  
+30.05.2015 03:13:43.351 INFO     1 rrr can move False  
+30.05.2015 03:13:43.351 INFO     1 rrr position 4 4  
+30.05.2015 03:13:43.351 INFO     1 rrr tryed to 0  
+30.05.2015 03:13:43.975 INFO     1 rrr can move False  
+30.05.2015 03:13:43.975 INFO     1 rrr position 4 4  
+30.05.2015 03:13:43.975 INFO     1 rrr tryed to 2  
+30.05.2015 03:13:44.599 INFO     1 rrr can move False  
+30.05.2015 03:13:44.599 INFO     1 rrr position 4 4  
+30.05.2015 03:13:44.599 INFO     1 rrr tryed to 0  
+30.05.2015 03:13:45.223 INFO     1 rrr can move False  
+30.05.2015 03:13:45.223 INFO     1 rrr position 4 4  
+30.05.2015 03:13:45.223 INFO     1 rrr tryed to 2  
+30.05.2015 03:13:45.847 INFO     1 rrr can move False  
+30.05.2015 03:13:45.847 INFO     1 rrr position 4 4  
+30.05.2015 03:13:45.847 INFO     1 rrr tryed to 0  
+30.05.2015 03:13:46.486 INFO     1 rrr can move False  
+30.05.2015 03:13:46.486 INFO     1 rrr position 4 4  
+30.05.2015 03:13:46.486 INFO     1 rrr tryed to 2  
+30.05.2015 03:13:47.095 INFO     1 rrr can move False  
+30.05.2015 03:13:47.095 INFO     1 rrr position 4 4  
+30.05.2015 03:13:47.095 INFO     1 rrr tryed to 0  
+30.05.2015 03:13:47.719 INFO     1 rrr can move False  
+30.05.2015 03:13:47.719 INFO     1 rrr position 4 4  
+30.05.2015 03:13:47.719 INFO     1 rrr tryed to 2  
+30.05.2015 03:13:48.343 INFO     1 rrr can move False  
+30.05.2015 03:13:48.343 INFO     1 rrr position 4 4  
+30.05.2015 03:13:48.343 INFO     1 rrr tryed to 0  
+30.05.2015 03:13:48.967 INFO     1 rrr can move False  
+30.05.2015 03:13:48.967 INFO     1 rrr position 4 4  
+30.05.2015 03:13:48.967 INFO     1 rrr tryed to 2  
+30.05.2015 03:13:49.591 INFO     1 rrr can move False  
+30.05.2015 03:13:49.591 INFO     1 rrr position 4 4  
+30.05.2015 03:13:49.591 INFO     1 rrr tryed to 0  
+30.05.2015 03:13:50.215 INFO     1 rrr can move False  
+30.05.2015 03:13:50.215 INFO     1 rrr position 4 4  
+30.05.2015 03:13:50.215 INFO     1 rrr tryed to 2  
+30.05.2015 03:13:50.839 INFO     1 rrr can move False  
+30.05.2015 03:13:50.839 INFO     1 rrr position 4 4  
+30.05.2015 03:13:50.839 INFO     1 rrr tryed to 0  
+30.05.2015 03:13:51.463 INFO     1 rrr can move False  
+30.05.2015 03:13:51.463 INFO     1 rrr position 4 4  
+30.05.2015 03:13:51.463 INFO     1 rrr tryed to 2  
+30.05.2015 03:13:52.102 INFO     1 rrr can move False  
+30.05.2015 03:13:52.102 INFO     1 rrr position 4 4  
+30.05.2015 03:13:52.102 INFO     1 rrr tryed to 0  
+30.05.2015 03:13:52.726 INFO     1 rrr can move False  
+30.05.2015 03:13:52.726 INFO     1 rrr position 4 4  
+30.05.2015 03:13:52.726 INFO     1 rrr tryed to 2  
+30.05.2015 03:13:53.335 INFO     1 rrr can move False  
+30.05.2015 03:13:53.350 INFO     1 rrr position 4 4  
+30.05.2015 03:13:53.350 INFO     1 rrr tryed to 0  
+30.05.2015 03:13:53.959 INFO     1 rrr can move False  
+30.05.2015 03:13:53.959 INFO     1 rrr position 4 4  
+30.05.2015 03:13:53.959 INFO     1 rrr tryed to 2  
+30.05.2015 03:13:54.598 INFO     1 rrr can move False  
+30.05.2015 03:13:54.598 INFO     1 rrr position 4 4  
+30.05.2015 03:13:54.598 INFO     1 rrr tryed to 0  
+30.05.2015 03:13:55.222 INFO     1 rrr can move False  
+30.05.2015 03:13:55.222 INFO     1 rrr position 4 4  
+30.05.2015 03:13:55.222 INFO     1 rrr tryed to 2  
+30.05.2015 03:13:55.846 INFO     1 rrr can move False  
+30.05.2015 03:13:55.846 INFO     1 rrr position 4 4  
+30.05.2015 03:13:55.846 INFO     1 rrr tryed to 0  
+30.05.2015 03:13:56.470 INFO     1 rrr can move False  
+30.05.2015 03:13:56.470 INFO     1 rrr position 4 4  
+30.05.2015 03:13:56.470 INFO     1 rrr tryed to 2  
+30.05.2015 03:13:57.094 INFO     1 rrr can move False  
+30.05.2015 03:13:57.094 INFO     1 Game over!  
+[End of logging]
+
+[Start of logging]
+30.05.2015 03:24:30.522 INFO     1 Start!!!  
+30.05.2015 03:24:30.538 INFO     1 Connected to server  
+30.05.2015 03:24:35.889 INFO     1 rrr position 13 13  
+30.05.2015 03:24:35.889 INFO     1 rrr tryed to 1  
+30.05.2015 03:24:35.904 INFO     1 rrr can move False  
+[End of logging]
+
+[Start of logging]
+30.05.2015 03:25:49.989 INFO     1 Start!!!  
+30.05.2015 03:25:50.004 INFO     1 Connected to server  
+30.05.2015 03:25:53.389 INFO     1 rrr position 17 15  
+30.05.2015 03:25:53.389 INFO     1 rrr tryed to 3  
+30.05.2015 03:25:53.436 INFO     1 rrr can move False  
+30.05.2015 03:25:53.436 INFO     1 rrr position 17 15  
+30.05.2015 03:25:53.436 INFO     1 rrr tryed to 1  
+30.05.2015 03:25:54.091 INFO     1 rrr can move False  
+30.05.2015 03:25:54.091 INFO     1 rrr position 17 15  
+30.05.2015 03:25:54.091 INFO     1 rrr tryed to 3  
+30.05.2015 03:25:54.700 INFO     1 rrr can move False  
+30.05.2015 03:25:54.700 INFO     1 rrr position 17 15  
+30.05.2015 03:25:54.700 INFO     1 rrr tryed to 1  
+30.05.2015 03:25:55.386 INFO     1 rrr can move False  
+30.05.2015 03:25:55.386 INFO     1 rrr position 17 15  
+30.05.2015 03:25:55.386 INFO     1 rrr tryed to 3  
+30.05.2015 03:25:56.057 INFO     1 rrr can move False  
+30.05.2015 03:25:56.073 INFO     1 rrr position 17 15  
+30.05.2015 03:25:56.073 INFO     1 rrr tryed to 1  
+30.05.2015 03:25:56.743 INFO     1 rrr can move False  
+30.05.2015 03:25:56.743 INFO     1 rrr position 17 15  
+30.05.2015 03:25:56.743 INFO     1 rrr tryed to 3  
+30.05.2015 03:25:57.414 INFO     1 rrr can move False  
+30.05.2015 03:25:57.414 INFO     1 rrr position 17 15  
+30.05.2015 03:25:57.414 INFO     1 rrr tryed to 1  
+30.05.2015 03:25:58.085 INFO     1 rrr can move False  
+30.05.2015 03:25:58.085 INFO     1 rrr position 17 15  
+30.05.2015 03:25:58.085 INFO     1 rrr tryed to 3  
+30.05.2015 03:25:58.771 INFO     1 rrr can move False  
+30.05.2015 03:25:58.771 INFO     1 rrr position 17 15  
+30.05.2015 03:25:58.771 INFO     1 rrr tryed to 1  
+30.05.2015 03:25:59.442 INFO     1 rrr can move False  
+30.05.2015 03:25:59.442 INFO     1 rrr position 17 15  
+30.05.2015 03:25:59.442 INFO     1 rrr tryed to 3  
+30.05.2015 03:26:00.113 INFO     1 rrr can move False  
+30.05.2015 03:26:00.113 INFO     1 rrr position 17 15  
+30.05.2015 03:26:00.113 INFO     1 rrr tryed to 1  
+30.05.2015 03:26:00.784 INFO     1 rrr can move False  
+30.05.2015 03:26:00.784 INFO     1 rrr position 17 15  
+30.05.2015 03:26:00.784 INFO     1 rrr tryed to 3  
+30.05.2015 03:26:01.455 INFO     1 rrr can move False  
+30.05.2015 03:26:01.455 INFO     1 rrr position 17 15  
+30.05.2015 03:26:01.455 INFO     1 rrr tryed to 1  
+30.05.2015 03:26:02.125 INFO     1 rrr can move False  
+30.05.2015 03:26:02.141 INFO     1 rrr position 17 15  
+30.05.2015 03:26:02.141 INFO     1 rrr tryed to 3  
+30.05.2015 03:26:02.796 INFO     1 rrr can move False  
+30.05.2015 03:26:02.796 INFO     1 rrr position 17 15  
+30.05.2015 03:26:02.796 INFO     1 rrr tryed to 1  
+30.05.2015 03:26:03.483 INFO     1 rrr can move False  
+30.05.2015 03:26:03.483 INFO     1 rrr position 17 15  
+30.05.2015 03:26:03.483 INFO     1 rrr tryed to 3  
+30.05.2015 03:26:04.154 INFO     1 rrr can move False  
+30.05.2015 03:26:04.154 INFO     1 rrr position 17 15  
+30.05.2015 03:26:04.154 INFO     1 rrr tryed to 1  
+30.05.2015 03:26:04.824 INFO     1 rrr can move False  
+30.05.2015 03:26:04.824 INFO     1 rrr position 17 15  
+30.05.2015 03:26:04.824 INFO     1 rrr tryed to 3  
+30.05.2015 03:26:05.480 INFO     1 rrr can move False  
+30.05.2015 03:26:05.480 INFO     1 rrr position 17 15  
+30.05.2015 03:26:05.480 INFO     1 rrr tryed to 1  
+30.05.2015 03:26:06.150 INFO     1 rrr can move False  
+30.05.2015 03:26:06.150 INFO     1 rrr position 17 15  
+30.05.2015 03:26:06.150 INFO     1 rrr tryed to 3  
+30.05.2015 03:26:06.821 INFO     1 rrr can move False  
+30.05.2015 03:26:06.821 INFO     1 rrr position 17 15  
+30.05.2015 03:26:06.821 INFO     1 rrr tryed to 1  
+30.05.2015 03:26:07.492 INFO     1 rrr can move False  
+30.05.2015 03:26:07.492 INFO     1 rrr position 17 15  
+30.05.2015 03:26:07.492 INFO     1 rrr tryed to 3  
+30.05.2015 03:26:08.147 INFO     1 rrr can move False  
+30.05.2015 03:26:08.163 INFO     1 rrr position 17 15  
+30.05.2015 03:26:08.163 INFO     1 rrr tryed to 1  
+30.05.2015 03:26:08.834 INFO     1 rrr can move False  
+30.05.2015 03:26:08.834 INFO     1 rrr position 17 15  
+30.05.2015 03:26:08.834 INFO     1 rrr tryed to 3  
+30.05.2015 03:26:09.489 INFO     1 rrr can move False  
+30.05.2015 03:26:09.489 INFO     1 rrr position 17 15  
+30.05.2015 03:26:09.489 INFO     1 rrr tryed to 1  
+30.05.2015 03:26:10.160 INFO     1 rrr can move False  
+30.05.2015 03:26:10.160 INFO     1 rrr position 17 15  
+30.05.2015 03:26:10.160 INFO     1 rrr tryed to 3  
+30.05.2015 03:26:10.830 INFO     1 rrr can move False  
+30.05.2015 03:26:10.830 INFO     1 rrr position 17 15  
+30.05.2015 03:26:10.830 INFO     1 rrr tryed to 1  
+30.05.2015 03:26:11.501 INFO     1 rrr can move False  
+30.05.2015 03:26:11.501 INFO     1 rrr position 17 15  
+30.05.2015 03:26:11.501 INFO     1 rrr tryed to 3  
+30.05.2015 03:26:12.172 INFO     1 rrr can move False  
+30.05.2015 03:26:12.172 INFO     1 rrr position 17 15  
+30.05.2015 03:26:12.172 INFO     1 rrr tryed to 1  
+30.05.2015 03:26:12.843 INFO     1 rrr can move False  
+30.05.2015 03:26:12.843 INFO     1 rrr position 17 15  
+30.05.2015 03:26:12.843 INFO     1 rrr tryed to 3  
+30.05.2015 03:26:13.498 INFO     1 rrr can move False  
+30.05.2015 03:26:13.498 INFO     1 rrr position 17 15  
+30.05.2015 03:26:13.498 INFO     1 rrr tryed to 1  
+30.05.2015 03:26:14.169 INFO     1 rrr can move False  
+30.05.2015 03:26:14.169 INFO     1 rrr position 17 15  
+30.05.2015 03:26:14.169 INFO     1 rrr tryed to 3  
+30.05.2015 03:26:14.840 INFO     1 rrr can move False  
+30.05.2015 03:26:14.840 INFO     1 rrr position 17 15  
+30.05.2015 03:26:14.840 INFO     1 rrr tryed to 1  
+30.05.2015 03:26:15.495 INFO     1 rrr can move False  
+30.05.2015 03:26:15.495 INFO     1 rrr position 17 15  
+30.05.2015 03:26:15.495 INFO     1 rrr tryed to 3  
+30.05.2015 03:26:16.166 INFO     1 rrr can move False  
+30.05.2015 03:26:16.166 INFO     1 rrr position 17 15  
+30.05.2015 03:26:16.166 INFO     1 rrr tryed to 1  
+30.05.2015 03:26:16.836 INFO     1 rrr can move False  
+30.05.2015 03:26:16.836 INFO     1 rrr position 17 15  
+30.05.2015 03:26:16.836 INFO     1 rrr tryed to 3  
+30.05.2015 03:26:17.507 INFO     1 rrr can move False  
+30.05.2015 03:26:17.507 INFO     1 rrr position 17 15  
+30.05.2015 03:26:17.507 INFO     1 rrr tryed to 1  
+30.05.2015 03:26:18.162 INFO     1 rrr can move False  
+30.05.2015 03:26:18.162 INFO     1 rrr position 17 15  
+30.05.2015 03:26:18.162 INFO     1 rrr tryed to 3  
+30.05.2015 03:26:18.833 INFO     1 rrr can move False  
+30.05.2015 03:26:18.833 INFO     1 rrr position 17 15  
+30.05.2015 03:26:18.833 INFO     1 rrr tryed to 1  
+30.05.2015 03:26:19.520 INFO     1 rrr can move False  
+30.05.2015 03:26:19.520 INFO     1 rrr position 17 15  
+30.05.2015 03:26:19.520 INFO     1 rrr tryed to 3  
+30.05.2015 03:26:20.190 INFO     1 rrr can move False  
+30.05.2015 03:26:20.190 INFO     1 rrr position 17 15  
+30.05.2015 03:26:20.190 INFO     1 rrr tryed to 1  
+30.05.2015 03:26:20.877 INFO     1 rrr can move False  
+30.05.2015 03:26:20.877 INFO     1 rrr position 17 15  
+30.05.2015 03:26:20.877 INFO     1 rrr tryed to 3  
+30.05.2015 03:26:21.579 INFO     1 rrr can move False  
+30.05.2015 03:26:21.579 INFO     1 rrr position 17 15  
+30.05.2015 03:26:21.579 INFO     1 rrr tryed to 1  
+30.05.2015 03:26:22.265 INFO     1 rrr can move False  
+30.05.2015 03:26:22.265 INFO     1 rrr position 17 15  
+30.05.2015 03:26:22.265 INFO     1 rrr tryed to 3  
+30.05.2015 03:26:22.952 INFO     1 rrr can move False  
+30.05.2015 03:26:22.952 INFO     1 rrr position 17 15  
+30.05.2015 03:26:22.952 INFO     1 rrr tryed to 1  
+30.05.2015 03:26:23.622 INFO     1 rrr can move False  
+30.05.2015 03:26:23.622 INFO     1 rrr position 17 15  
+30.05.2015 03:26:23.622 INFO     1 rrr tryed to 3  
+30.05.2015 03:26:24.309 INFO     1 rrr can move False  
+30.05.2015 03:26:24.309 INFO     1 rrr position 17 15  
+30.05.2015 03:26:24.309 INFO     1 rrr tryed to 1  
+30.05.2015 03:26:24.995 INFO     1 rrr can move False  
+30.05.2015 03:26:24.995 INFO     1 rrr position 17 15  
+30.05.2015 03:26:24.995 INFO     1 rrr tryed to 3  
+30.05.2015 03:26:25.666 INFO     1 rrr can move False  
+30.05.2015 03:26:25.682 INFO     1 rrr position 17 15  
+30.05.2015 03:26:25.682 INFO     1 rrr tryed to 1  
+30.05.2015 03:26:26.337 INFO     1 rrr can move False  
+30.05.2015 03:26:26.337 INFO     1 rrr position 17 15  
+30.05.2015 03:26:26.337 INFO     1 rrr tryed to 3  
+30.05.2015 03:26:27.039 INFO     1 rrr can move False  
+30.05.2015 03:26:27.039 INFO     1 rrr position 17 15  
+30.05.2015 03:26:27.039 INFO     1 rrr tryed to 1  
+30.05.2015 03:26:27.710 INFO     1 rrr can move False  
+30.05.2015 03:26:27.710 INFO     1 Game over!  
+[End of logging]
+
+[Start of logging]
+30.05.2015 03:30:43.248 INFO     1 Start!!!  
+30.05.2015 03:30:43.264 INFO     1 Connected to server  
+30.05.2015 03:30:47.772 INFO     1 rrr position 10 1  
+30.05.2015 03:30:47.772 INFO     1 rrr tryed to 1  
+[End of logging]
+
+[Start of logging]
+30.05.2015 03:31:32.472 INFO     1 Start!!!  
+30.05.2015 03:31:32.472 INFO     1 Connected to server  
+30.05.2015 03:31:35.577 INFO     1 rrr position 11 2  
+30.05.2015 03:31:35.577 INFO     1 rrr tryed to 1  
+[End of logging]
+
+[Start of logging]
+30.05.2015 03:34:48.284 INFO     1 Start!!!  
+30.05.2015 03:34:48.346 INFO     1 Connected to server  
+30.05.2015 03:34:52.153 INFO     1 rrr position 11 8  
+30.05.2015 03:34:52.153 INFO     1 rrr tryed to 3  
+30.05.2015 03:34:52.278 INFO     1 rrr can move False  
+30.05.2015 03:34:52.278 INFO     1 rrr position 11 8  
+30.05.2015 03:34:52.278 INFO     1 rrr tryed to 0  
+30.05.2015 03:34:52.808 INFO     1 rrr can move False  
+[End of logging]
+
+[Start of logging]
+30.05.2015 03:35:44.227 INFO     1 Start!!!  
+30.05.2015 03:35:44.227 INFO     1 Connected to server  

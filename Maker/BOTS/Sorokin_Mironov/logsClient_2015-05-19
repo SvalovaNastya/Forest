@@ -1,0 +1,264 @@
+﻿[Start of logging]
+[End of logging]
+
+[Start of logging]
+19.05.2015 23:28:54.458 INFO  Threadpool worker Connected to server  
+19.05.2015 23:28:54.953 INFO  Threadpool worker Start!!!  
+19.05.2015 23:28:54.953 INFO  Threadpool worker Connected to server  
+19.05.2015 23:28:55.041 INFO  Threadpool worker rrr position 1 1  
+19.05.2015 23:28:55.041 INFO  Threadpool worker t position 6 4  
+19.05.2015 23:28:55.043 INFO  Threadpool worker rrr tryed to 1  
+19.05.2015 23:28:55.043 INFO  Threadpool worker t tryed to 3  
+19.05.2015 23:28:55.046 INFO  Threadpool worker rrr can move False  
+19.05.2015 23:28:55.046 INFO  Threadpool worker rrr position 1 1  
+19.05.2015 23:28:55.046 INFO  Threadpool worker rrr tryed to 2  
+19.05.2015 23:28:55.046 INFO  Threadpool worker t can move False  
+19.05.2015 23:28:55.047 INFO  Threadpool worker t position 6 4  
+19.05.2015 23:28:55.047 INFO  Threadpool worker t tryed to 0  
+19.05.2015 23:28:55.575 INFO  Threadpool worker rrr can move True  
+19.05.2015 23:28:55.575 INFO  Threadpool worker t can move True  
+19.05.2015 23:28:55.575 INFO  Threadpool worker t position 6 3  
+19.05.2015 23:28:55.575 INFO  Threadpool worker t tryed to 3  
+19.05.2015 23:28:55.575 INFO  Threadpool worker rrr position 1 2  
+19.05.2015 23:28:55.575 INFO  Threadpool worker rrr tryed to 1  
+19.05.2015 23:28:56.078 INFO  Threadpool worker rrr can move False  
+19.05.2015 23:28:56.078 INFO  Threadpool worker t can move False  
+19.05.2015 23:28:56.079 INFO  Threadpool worker rrr position 1 2  
+19.05.2015 23:28:56.079 INFO  Threadpool worker rrr tryed to 2  
+19.05.2015 23:28:56.079 INFO  Threadpool worker t position 6 3  
+19.05.2015 23:28:56.079 INFO  Threadpool worker t tryed to 0  
+19.05.2015 23:28:56.581 INFO  Threadpool worker rrr can move True  
+19.05.2015 23:28:56.582 INFO  Threadpool worker t can move True  
+19.05.2015 23:28:56.582 INFO  Threadpool worker rrr position 1 3  
+19.05.2015 23:28:56.582 INFO  Threadpool worker rrr tryed to 1  
+19.05.2015 23:28:56.582 INFO  Threadpool worker t position 6 2  
+19.05.2015 23:28:56.582 INFO  Threadpool worker t tryed to 3  
+19.05.2015 23:28:57.086 INFO  Threadpool worker rrr can move False  
+19.05.2015 23:28:57.086 INFO  Threadpool worker rrr position 1 3  
+19.05.2015 23:28:57.086 INFO  Threadpool worker rrr tryed to 2  
+19.05.2015 23:28:57.086 INFO  Threadpool worker t can move False  
+19.05.2015 23:28:57.086 INFO  Threadpool worker t position 6 2  
+19.05.2015 23:28:57.086 INFO  Threadpool worker t tryed to 0  
+19.05.2015 23:28:57.589 INFO  Threadpool worker rrr can move True  
+19.05.2015 23:28:57.589 INFO  Threadpool worker t can move True  
+19.05.2015 23:28:57.589 INFO  Threadpool worker rrr position 1 4  
+19.05.2015 23:28:57.589 INFO  Threadpool worker rrr tryed to 1  
+19.05.2015 23:28:57.589 INFO  Threadpool worker t position 6 1  
+19.05.2015 23:28:57.589 INFO  Threadpool worker t tryed to 3  
+19.05.2015 23:28:58.091 INFO  Threadpool worker rrr can move False  
+19.05.2015 23:28:58.091 INFO  Threadpool worker t can move True  
+19.05.2015 23:28:58.092 INFO  Threadpool worker t position 5 1  
+19.05.2015 23:28:58.092 INFO  Threadpool worker t tryed to 3  
+19.05.2015 23:28:58.092 INFO  Threadpool worker rrr position 1 4  
+19.05.2015 23:28:58.092 INFO  Threadpool worker rrr tryed to 2  
+19.05.2015 23:28:58.594 INFO  Threadpool worker rrr can move True  
+19.05.2015 23:28:58.594 INFO  Threadpool worker rrr position 1 5  
+19.05.2015 23:28:58.594 INFO  Threadpool worker rrr tryed to 1  
+19.05.2015 23:28:58.594 INFO  Threadpool worker t can move True  
+19.05.2015 23:28:58.594 INFO  Threadpool worker t position 4 1  
+19.05.2015 23:28:58.594 INFO  Threadpool worker t tryed to 3  
+19.05.2015 23:28:59.098 INFO  Threadpool worker rrr can move True  
+19.05.2015 23:28:59.098 INFO  Threadpool worker t can move False  
+19.05.2015 23:28:59.098 INFO  Threadpool worker Game over!  
+19.05.2015 23:28:59.098 INFO  Threadpool worker rrr position 2 5  
+19.05.2015 23:28:59.098 INFO  Threadpool worker rrr tryed to 1  
+[End of logging]
+
+[Start of logging]
+[End of logging]
+
+[Start of logging]
+19.05.2015 23:33:31.532 INFO  Threadpool worker Connected to server  
+19.05.2015 23:33:32.031 INFO  Threadpool worker Start!!!  
+19.05.2015 23:33:32.032 INFO  Threadpool worker Connected to server  
+19.05.2015 23:33:32.128 INFO  Threadpool worker t position 6 4  
+19.05.2015 23:33:32.128 INFO  Threadpool worker rrr position 1 1  
+19.05.2015 23:33:32.129 INFO  Threadpool worker t tryed to 3  
+19.05.2015 23:33:32.129 INFO  Threadpool worker rrr tryed to 1  
+19.05.2015 23:33:32.133 INFO  Threadpool worker rrr can move False  
+19.05.2015 23:33:32.133 INFO  Threadpool worker rrr position 1 1  
+19.05.2015 23:33:32.133 INFO  Threadpool worker rrr tryed to 2  
+19.05.2015 23:33:32.134 INFO  Threadpool worker t can move False  
+19.05.2015 23:33:32.134 INFO  Threadpool worker t position 6 4  
+19.05.2015 23:33:32.134 INFO  Threadpool worker t tryed to 0  
+19.05.2015 23:33:32.670 INFO  Threadpool worker rrr can move True  
+19.05.2015 23:33:32.670 INFO  Threadpool worker t can move True  
+19.05.2015 23:33:32.670 INFO  Threadpool worker rrr position 1 2  
+19.05.2015 23:33:32.670 INFO  Threadpool worker rrr tryed to 1  
+19.05.2015 23:33:32.670 INFO  Threadpool worker t position 6 3  
+19.05.2015 23:33:32.670 INFO  Threadpool worker t tryed to 3  
+19.05.2015 23:33:33.172 INFO  Threadpool worker rrr can move False  
+19.05.2015 23:33:33.172 INFO  Threadpool worker t can move False  
+19.05.2015 23:33:33.172 INFO  Threadpool worker rrr position 1 2  
+19.05.2015 23:33:33.173 INFO  Threadpool worker t position 6 3  
+19.05.2015 23:33:33.173 INFO  Threadpool worker t tryed to 0  
+19.05.2015 23:33:33.173 INFO  Threadpool worker rrr tryed to 2  
+19.05.2015 23:33:33.679 INFO  Threadpool worker rrr can move True  
+19.05.2015 23:33:33.679 INFO  Threadpool worker t can move True  
+19.05.2015 23:33:33.679 INFO  Threadpool worker rrr position 1 3  
+19.05.2015 23:33:33.679 INFO  Threadpool worker t position 6 2  
+19.05.2015 23:33:33.679 INFO  Threadpool worker t tryed to 3  
+19.05.2015 23:33:33.679 INFO  Threadpool worker rrr tryed to 1  
+19.05.2015 23:33:34.181 INFO  Threadpool worker rrr can move False  
+19.05.2015 23:33:34.181 INFO  Threadpool worker t can move False  
+19.05.2015 23:33:34.182 INFO  Threadpool worker rrr position 1 3  
+19.05.2015 23:33:34.182 INFO  Threadpool worker rrr tryed to 2  
+19.05.2015 23:33:34.182 INFO  Threadpool worker t position 6 2  
+19.05.2015 23:33:34.182 INFO  Threadpool worker t tryed to 0  
+19.05.2015 23:33:34.684 INFO  Threadpool worker rrr can move True  
+19.05.2015 23:33:34.684 INFO  Threadpool worker t can move True  
+19.05.2015 23:33:34.684 INFO  Threadpool worker rrr position 1 4  
+19.05.2015 23:33:34.684 INFO  Threadpool worker t position 6 1  
+19.05.2015 23:33:34.685 INFO  Threadpool worker t tryed to 3  
+19.05.2015 23:33:34.685 INFO  Threadpool worker rrr tryed to 1  
+19.05.2015 23:33:35.187 INFO  Threadpool worker rrr can move False  
+19.05.2015 23:33:35.187 INFO  Threadpool worker t can move True  
+19.05.2015 23:33:35.187 INFO  Threadpool worker rrr position 1 4  
+19.05.2015 23:33:35.187 INFO  Threadpool worker rrr tryed to 2  
+19.05.2015 23:33:35.187 INFO  Threadpool worker t position 5 1  
+19.05.2015 23:33:35.187 INFO  Threadpool worker t tryed to 3  
+19.05.2015 23:33:35.691 INFO  Threadpool worker rrr can move True  
+19.05.2015 23:33:35.691 INFO  Threadpool worker rrr position 1 5  
+19.05.2015 23:33:35.691 INFO  Threadpool worker rrr tryed to 1  
+19.05.2015 23:33:35.691 INFO  Threadpool worker t can move True  
+19.05.2015 23:33:35.691 INFO  Threadpool worker t position 4 1  
+19.05.2015 23:33:35.691 INFO  Threadpool worker t tryed to 3  
+19.05.2015 23:33:36.193 INFO  Threadpool worker rrr can move True  
+19.05.2015 23:33:36.194 INFO  Threadpool worker t can move False  
+19.05.2015 23:33:36.194 INFO  Threadpool worker Game over!  
+19.05.2015 23:33:36.194 INFO  Threadpool worker rrr position 2 5  
+19.05.2015 23:33:36.194 INFO  Threadpool worker rrr tryed to 1  
+[End of logging]
+
+[Start of logging]
+[End of logging]
+
+[Start of logging]
+19.05.2015 23:33:59.048 INFO  Threadpool worker Connected to server  
+19.05.2015 23:33:59.546 INFO  Threadpool worker Start!!!  
+19.05.2015 23:33:59.547 INFO  Threadpool worker Connected to server  
+19.05.2015 23:33:59.646 INFO  Threadpool worker rrr position 1 1  
+19.05.2015 23:33:59.646 INFO  Threadpool worker t position 6 4  
+19.05.2015 23:33:59.648 INFO  Threadpool worker rrr tryed to 1  
+19.05.2015 23:33:59.648 INFO  Threadpool worker t tryed to 3  
+19.05.2015 23:33:59.651 INFO  Threadpool worker rrr can move False  
+19.05.2015 23:33:59.651 INFO  Threadpool worker t can move False  
+19.05.2015 23:33:59.651 INFO  Threadpool worker rrr position 1 1  
+19.05.2015 23:33:59.651 INFO  Threadpool worker rrr tryed to 2  
+19.05.2015 23:33:59.651 INFO  Threadpool worker t position 6 4  
+19.05.2015 23:33:59.651 INFO  Threadpool worker t tryed to 0  
+19.05.2015 23:34:00.181 INFO  Threadpool worker rrr can move True  
+19.05.2015 23:34:00.181 INFO  Threadpool worker t can move True  
+19.05.2015 23:34:00.181 INFO  Threadpool worker rrr position 1 2  
+19.05.2015 23:34:00.181 INFO  Threadpool worker rrr tryed to 1  
+19.05.2015 23:34:00.181 INFO  Threadpool worker t position 6 3  
+19.05.2015 23:34:00.181 INFO  Threadpool worker t tryed to 3  
+19.05.2015 23:34:00.683 INFO  Threadpool worker rrr can move False  
+19.05.2015 23:34:00.683 INFO  Threadpool worker t can move False  
+19.05.2015 23:34:00.683 INFO  Threadpool worker rrr position 1 2  
+19.05.2015 23:34:00.683 INFO  Threadpool worker t position 6 3  
+19.05.2015 23:34:00.683 INFO  Threadpool worker t tryed to 0  
+19.05.2015 23:34:00.683 INFO  Threadpool worker rrr tryed to 2  
+19.05.2015 23:34:01.185 INFO  Threadpool worker rrr can move True  
+19.05.2015 23:34:01.185 INFO  Threadpool worker t can move True  
+19.05.2015 23:34:01.185 INFO  Threadpool worker rrr position 1 3  
+19.05.2015 23:34:01.185 INFO  Threadpool worker rrr tryed to 1  
+19.05.2015 23:34:01.185 INFO  Threadpool worker t position 6 2  
+19.05.2015 23:34:01.185 INFO  Threadpool worker t tryed to 3  
+19.05.2015 23:34:01.688 INFO  Threadpool worker rrr can move False  
+19.05.2015 23:34:01.688 INFO  Threadpool worker t can move False  
+19.05.2015 23:34:01.688 INFO  Threadpool worker rrr position 1 3  
+19.05.2015 23:34:01.688 INFO  Threadpool worker rrr tryed to 2  
+19.05.2015 23:34:01.688 INFO  Threadpool worker t position 6 2  
+19.05.2015 23:34:01.688 INFO  Threadpool worker t tryed to 0  
+19.05.2015 23:34:02.194 INFO  Threadpool worker rrr can move True  
+19.05.2015 23:34:02.194 INFO  Threadpool worker rrr position 1 4  
+19.05.2015 23:34:02.194 INFO  Threadpool worker t can move True  
+19.05.2015 23:34:02.194 INFO  Threadpool worker rrr tryed to 1  
+19.05.2015 23:34:02.194 INFO  Threadpool worker t position 6 1  
+19.05.2015 23:34:02.194 INFO  Threadpool worker t tryed to 3  
+19.05.2015 23:34:02.695 INFO  Threadpool worker rrr can move False  
+19.05.2015 23:34:02.695 INFO  Threadpool worker t can move True  
+19.05.2015 23:34:02.695 INFO  Threadpool worker rrr position 1 4  
+19.05.2015 23:34:02.695 INFO  Threadpool worker rrr tryed to 2  
+19.05.2015 23:34:02.695 INFO  Threadpool worker t position 5 1  
+19.05.2015 23:34:02.696 INFO  Threadpool worker t tryed to 3  
+19.05.2015 23:34:03.201 INFO  Threadpool worker rrr can move True  
+19.05.2015 23:34:03.201 INFO  Threadpool worker rrr position 1 5  
+19.05.2015 23:34:03.201 INFO  Threadpool worker rrr tryed to 1  
+19.05.2015 23:34:03.201 INFO  Threadpool worker t can move True  
+19.05.2015 23:34:03.201 INFO  Threadpool worker t position 4 1  
+19.05.2015 23:34:03.201 INFO  Threadpool worker t tryed to 3  
+19.05.2015 23:34:03.703 INFO  Threadpool worker rrr can move True  
+19.05.2015 23:34:03.704 INFO  Threadpool worker t can move False  
+19.05.2015 23:34:03.704 INFO  Threadpool worker Game over!  
+19.05.2015 23:34:03.704 INFO  Threadpool worker rrr position 2 5  
+19.05.2015 23:34:03.704 INFO  Threadpool worker rrr tryed to 1  
+[End of logging]
+
+[Start of logging]
+[End of logging]
+
+[Start of logging]
+19.05.2015 23:48:36.089 INFO  Threadpool worker Connected to server  
+19.05.2015 23:48:36.589 INFO  Threadpool worker Start!!!  
+19.05.2015 23:48:36.590 INFO  Threadpool worker Connected to server  
+19.05.2015 23:48:36.685 INFO  Threadpool worker rrr position 1 1  
+19.05.2015 23:48:36.685 INFO  Threadpool worker t position 6 4  
+19.05.2015 23:48:36.686 INFO  Threadpool worker rrr tryed to 1  
+19.05.2015 23:48:36.686 INFO  Threadpool worker t tryed to 3  
+19.05.2015 23:48:36.690 INFO  Threadpool worker rrr can move False  
+19.05.2015 23:48:36.690 INFO  Threadpool worker rrr position 1 1  
+19.05.2015 23:48:36.690 INFO  Threadpool worker t can move False  
+19.05.2015 23:48:36.690 INFO  Threadpool worker t position 6 4  
+19.05.2015 23:48:36.690 INFO  Threadpool worker t tryed to 0  
+19.05.2015 23:48:36.690 INFO  Threadpool worker rrr tryed to 2  
+19.05.2015 23:48:37.229 INFO  Threadpool worker rrr can move True  
+19.05.2015 23:48:37.230 INFO  Threadpool worker t can move True  
+19.05.2015 23:48:37.230 INFO  Threadpool worker rrr position 1 2  
+19.05.2015 23:48:37.230 INFO  Threadpool worker rrr tryed to 1  
+19.05.2015 23:48:37.230 INFO  Threadpool worker t position 6 3  
+19.05.2015 23:48:37.230 INFO  Threadpool worker t tryed to 3  
+19.05.2015 23:48:37.732 INFO  Threadpool worker rrr can move False  
+19.05.2015 23:48:37.733 INFO  Threadpool worker t can move False  
+19.05.2015 23:48:37.733 INFO  Threadpool worker rrr position 1 2  
+19.05.2015 23:48:37.733 INFO  Threadpool worker rrr tryed to 2  
+19.05.2015 23:48:37.733 INFO  Threadpool worker t position 6 3  
+19.05.2015 23:48:37.733 INFO  Threadpool worker t tryed to 0  
+19.05.2015 23:48:38.237 INFO  Threadpool worker rrr can move True  
+19.05.2015 23:48:38.237 INFO  Threadpool worker rrr position 1 3  
+19.05.2015 23:48:38.237 INFO  Threadpool worker rrr tryed to 1  
+19.05.2015 23:48:38.237 INFO  Threadpool worker t can move True  
+19.05.2015 23:48:38.237 INFO  Threadpool worker t position 6 2  
+19.05.2015 23:48:38.237 INFO  Threadpool worker t tryed to 3  
+19.05.2015 23:48:38.740 INFO  Threadpool worker rrr can move False  
+19.05.2015 23:48:38.740 INFO  Threadpool worker t can move False  
+19.05.2015 23:48:38.740 INFO  Threadpool worker rrr position 1 3  
+19.05.2015 23:48:38.740 INFO  Threadpool worker rrr tryed to 2  
+19.05.2015 23:48:38.740 INFO  Threadpool worker t position 6 2  
+19.05.2015 23:48:38.740 INFO  Threadpool worker t tryed to 0  
+19.05.2015 23:48:39.245 INFO  Threadpool worker rrr can move True  
+19.05.2015 23:48:39.245 INFO  Threadpool worker t can move True  
+19.05.2015 23:48:39.245 INFO  Threadpool worker rrr position 1 4  
+19.05.2015 23:48:39.245 INFO  Threadpool worker rrr tryed to 1  
+19.05.2015 23:48:39.245 INFO  Threadpool worker t position 6 1  
+19.05.2015 23:48:39.245 INFO  Threadpool worker t tryed to 3  
+19.05.2015 23:48:39.747 INFO  Threadpool worker rrr can move False  
+19.05.2015 23:48:39.747 INFO  Threadpool worker rrr position 1 4  
+19.05.2015 23:48:39.747 INFO  Threadpool worker rrr tryed to 2  
+19.05.2015 23:48:39.747 INFO  Threadpool worker t can move True  
+19.05.2015 23:48:39.747 INFO  Threadpool worker t position 5 1  
+19.05.2015 23:48:39.747 INFO  Threadpool worker t tryed to 3  
+19.05.2015 23:48:40.249 INFO  Threadpool worker rrr can move True  
+19.05.2015 23:48:40.249 INFO  Threadpool worker rrr position 1 5  
+19.05.2015 23:48:40.249 INFO  Threadpool worker rrr tryed to 1  
+19.05.2015 23:48:40.249 INFO  Threadpool worker t can move True  
+19.05.2015 23:48:40.249 INFO  Threadpool worker t position 4 1  
+19.05.2015 23:48:40.249 INFO  Threadpool worker t tryed to 3  
+19.05.2015 23:48:40.752 INFO  Threadpool worker rrr can move True  
+19.05.2015 23:48:40.752 INFO  Threadpool worker t can move False  
+19.05.2015 23:48:40.752 INFO  Threadpool worker Game over!  
+19.05.2015 23:48:40.752 INFO  Threadpool worker rrr position 2 5  
+19.05.2015 23:48:40.752 INFO  Threadpool worker rrr tryed to 1  
+[End of logging]
+
